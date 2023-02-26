@@ -1,0 +1,834 @@
+Business ID,Name,Address,Coordinates,Number of Reviews,Rating,Zip Code
+tV6Tgw6FS45BRHyQ207jag,Omar's Mediterranean East Midtown,154 E 55th St,"{'latitude': 40.75905, 'longitude': -73.969273}",663,4.5,10022
+dMhRafXdr765DHe0k-QfaQ,ABC Kitchen,35 E 18th St,"{'latitude': 40.73775008339078, 'longitude': -73.98963413652181}",3162,4.0,10003
+_zGsfwGAY8ZTob_mIFAM-w,Pokeworks,63 W 37th St,"{'latitude': 40.75166024917636, 'longitude': -73.98585830122367}",1834,4.0,10018
+ntkrxOSYT5VtTL4Z5jmmeA,Ground Central,155 E 52nd St,"{'latitude': 40.757575, 'longitude': -73.970321}",687,4.0,10022
+csVEpHy5KJoFvM1qp5XwLQ,Le Parisien,163 East 33rd St,"{'latitude': 40.7454079308793, 'longitude': -73.9791478306885}",1045,4.0,10016
+iUEvASoukxI6vrCYWYyK8g,Kati Shop,162 E 55th St,"{'latitude': 40.75899, 'longitude': -73.96883}",198,4.5,10022
+q7U2GCMWIZxIqWeMDml0LQ,Pure Ktchn,352 West 46th St,"{'latitude': 40.76053, 'longitude': -73.98992}",389,4.5,10036
+UB1mGugr1pvgUUP1eTNXrg,Stone Bridge Pizza & Salad,16 E 41st St,"{'latitude': 40.75225, 'longitude': -73.98061}",320,4.5,10017
+CYYLEipRFmr73Hz6XNEzoQ,Little Italy Pizza,55 W 45th St,"{'latitude': 40.756482, 'longitude': -73.981484}",599,4.0,10036
+0Bm2vjJW5Fw7_Maer6kDUw,Melt Shop,135 W 50th St,"{'latitude': 40.76091344676272, 'longitude': -73.9825650029376}",668,4.0,10019
+77EedCTJY1biWIYSzAulCQ,J.G. Melon,1291 3rd Ave,"{'latitude': 40.77105, 'longitude': -73.95931}",1497,3.5,10021
+8M_0cxAChoXl7Ls9YkWJlg,Xe May Sandwich Shop,96 Saint Marks Pl,"{'latitude': 40.7272, 'longitude': -73.98493}",660,4.5,10009
+k7n_31GE1Yq1KD77_DO1Tw,Chick-fil-A,1000 Avenue Of The Americas,"{'latitude': 40.751726, 'longitude': -73.9860817}",617,4.0,10018
+v0LGazMDlyPX5ceLYpZyTg,Akdeniz Mediterranean Cuisine,43 West 46th Street,"{'latitude': 40.756948, 'longitude': -73.9806443}",418,4.0,10036
+N4q6Y9cpvUbJ3O5rydrSbQ,Shorty's,617 9th Ave,"{'latitude': 40.7596133, 'longitude': -73.9920779}",720,4.0,10036
+AOZlppihRNG8Y2N4Jid30A,Brooklyn Pizza Masters,1055 1st Ave,"{'latitude': 40.7588567, 'longitude': -73.9626842}",222,4.5,10022
+PpxJsItHTF6sDAK6XnDJ9w,Bite,211 E 14th St,"{'latitude': 40.733163, 'longitude': -73.986158}",649,4.0,10003
+Ey45ZiAN1TSVmvfM6DVZqA,Persepolis,1407 2nd Ave,"{'latitude': 40.76984, 'longitude': -73.958015}",513,4.0,10021
+jCRblp7F5IbUSySK_Y7Qiw,EONS Greek Food for Life,633 2nd Ave,"{'latitude': 40.74528, 'longitude': -73.97588}",360,4.0,10016
+snJZrvebNxanqMmWPhqndg,Sashimi Express II,223 E 74th St,"{'latitude': 40.77068, 'longitude': -73.95849}",151,4.5,10021
+_nScWpFX3M1K7s30hFEsRw,INDAY,1133 Broadway,"{'latitude': 40.7434986, 'longitude': -73.9892206}",397,4.0,10010
+TMoFGaSlAlpEGjb9dOKPQg,sweetgreen,1164 Broadway,"{'latitude': 40.7448032395629, 'longitude': -73.9886377751827}",689,3.5,10001
+TmPsmR6rnId2Rxg1al1-cA,Oath Pizza - New York,1142 3rd Ave,"{'latitude': 40.7664835, 'longitude': -73.9633564}",261,4.0,10065
+gjIctg7P18f6UocGVW2IMQ,Bite,62 W 22nd St,"{'latitude': 40.74189, 'longitude': -73.99305}",361,4.0,10010
+enT7NJ7tLMvUMCWQcsUonw,Mémé Mediterranean,581 Hudson St,"{'latitude': 40.736412, 'longitude': -74.00616}",678,4.0,10014
+mMuAsPSy2T56j0ENSTPL9w,Cava,143 4th Ave,"{'latitude': 40.7337897786475, 'longitude': -73.9896078601189}",349,4.5,10003
+BIFbVuIDJFS_2u_8vJxnwA,Tompkins Square Bagels -  2nd Ave,184 2nd Ave,"{'latitude': 40.73064, 'longitude': -73.98578}",384,4.0,10003
+Ew3d7Vt18c1MH4_X6ogxQQ,Banh Mi Zon,443 East 6th St,"{'latitude': 40.7256861, 'longitude': -73.9842575}",339,4.5,10009
+oc8J6lk1Mfa-8RIwQ4NDgw,Pokeworks,117 E 41st St,"{'latitude': 40.751355370255474, 'longitude': -73.97689043954146}",245,4.0,10168
+wzAMmlC32y2YMEu0u0bnsQ,Inès,419 E 74th ST,"{'latitude': 40.768889, 'longitude': -73.954077}",115,4.5,10021
+yyPjuKHc98UdCW5eM9ATcg,Little Beet,135 W 50th St,"{'latitude': 40.76088262820032, 'longitude': -73.9824806606141}",387,3.5,10020
+s8fqj5tqibEsRGXHMxhOEQ,Pokeworks,21 E 15th St,"{'latitude': 40.73626, 'longitude': -73.99183}",450,4.0,10003
+or0Op4EDk95L0vhLwSATcQ,Montagu's Gusto,645 2nd Ave,"{'latitude': 40.74571, 'longitude': -73.97553}",166,4.0,10016
+L65-2QsNv3y7-tu6xGLAUA,Chirping Chicken,587 9th Ave,"{'latitude': 40.7588161, 'longitude': -73.9926049}",269,4.0,10036
+F2TE6sQpywj3bkVi8L_nLw,Toasties,23 E 51st St,"{'latitude': 40.758511, 'longitude': -73.9748188}",210,4.0,10022
+1HPdyg0OLRkjHeixVmbu0Q,Cocina Del Sur,40 W 38th St,"{'latitude': 40.7515296936035, 'longitude': -73.9846572875977}",150,4.0,10018
+9WgsvzaiXNAmmQGD0uQxFQ,Thai Holic,372 Myrtle Ave,"{'latitude': 40.693005, 'longitude': -73.971286}",538,4.5,11205
+euqvuleuiGyMffTR23eeYg,Zooba,100 Kenmare St,"{'latitude': 40.7212932028146, 'longitude': -73.997309692204}",244,4.5,10012
+egDEaHpDumYHzRUZ8JBU-w,Pranakhon Thai Restaurant,88 University Pl,"{'latitude': 40.733804, 'longitude': -73.993167}",100,4.5,10003
+ordDKTBgCKwk5oBbSPKXcQ,Melt Shop,877 8th Ave,"{'latitude': 40.76389593749034, 'longitude': -73.98529798140706}",212,4.0,10019
+rc6gHnD6hdaf1ZV9fzGRaQ,Fields Good Chicken,26 E 40th St,"{'latitude': 40.7513869553804, 'longitude': -73.9800272136927}",146,4.0,10016
+gPattIGuKxCgeNjxfEMDjg,Punjabi Junction Of 87th,1665 1st Ave,"{'latitude': 40.777471, 'longitude': -73.949159}",59,5.0,10028
+CwyNwMjHxc316jKmxVZy_w,Mangia - 57th,50 W 57th St,"{'latitude': 40.7640223, 'longitude': -73.9764782}",255,3.5,10019
+qZXlH7mYJt_udou9-BhaBA,The Inkan,4502 23rd St,"{'latitude': 40.746833, 'longitude': -73.945639}",240,4.0,11101
+djQCSwY5ElZYxFqTZYoDww,Alfalfa,1110 Washington St,"{'latitude': 40.75048, 'longitude': -74.02725}",172,4.5,07030
+L3XlMWq9WkeXI-OnqvdENA,Sandwicherie of New York,202 E 42nd St,"{'latitude': 40.7503814697266, 'longitude': -73.9741363525391}",210,3.5,10017
+gNMT6UQ7gKMfMK96jbRDDw,Just Salad,663 Lexington Ave,"{'latitude': 40.75981, 'longitude': -73.96976}",192,3.5,10022
+P4HX6tjQQK4gbdn_d0cGTw,Ground Support,399 W Broadway,"{'latitude': 40.7241968559678, 'longitude': -74.0020576327145}",552,3.5,10012
+Up2LI3M1Uz3qJncRo0WgVw,Pho Shop,141 W 72nd St,"{'latitude': 40.778255, 'longitude': -73.980123}",243,4.0,10023
+q6FcRtW3ZoQ-hynSCSa8Ig,Arepera Guacuco Bushwick,44 Irving Ave,"{'latitude': 40.704667, 'longitude': -73.924583}",579,4.0,11237
+asxQ9Kf3RjigsftsTVk53A,Two Boots East Village,42 Ave A,"{'latitude': 40.723658440431656, 'longitude': -73.98503439649534}",413,4.0,10009
+CeIpLILNGv-X7LnIroKyCQ,Chick-fil-A,1180 Avenue Of The Americas,"{'latitude': 40.7574254, 'longitude': -73.981961}",259,3.5,10036
+qzdCvtgpCDjNVV_zRJB5EQ,Voyager Espresso,110 William St,"{'latitude': 40.708665, 'longitude': -74.006894}",156,4.5,10038
+2naDr1913zJk7Y1f2wsWYw,Tal Bagels,977 1st Ave,"{'latitude': 40.756294, 'longitude': -73.96473}",295,3.0,10022
+_HDL2GbVd6OsbBYDUWx8Zg,Cava,325 Park Ave S,"{'latitude': 40.74088865307254, 'longitude': -73.98549001165841}",219,4.0,10010
+gLyCmWWmqvg2SUG4DBgtWA,Family Corner Restaurant,2102 31st St,"{'latitude': 40.7779502868652, 'longitude': -73.9089813232422}",233,4.5,11105
+s9hDPejM6jc6CSNkEFspBA,Potbelly Sandwich Shop,150 E 44th St,"{'latitude': 40.7523031, 'longitude': -73.974358}",168,3.5,10017
+kycAM7GyA1pEMmkdVS3xuw,Wolfnights - The Gourmet Wrap,121 W 3rd St,"{'latitude': 40.73065, 'longitude': -74.00037}",156,4.5,10012
+WXNH5L0R3GtVswbDO1nzFQ,Potbelly Sandwich Shop,501 7th Ave,"{'latitude': 40.752984, 'longitude': -73.988959}",212,3.5,10018
+tNxOyonJ1Rf5MdgdDoFzIg,Kausa,745 9th Ave,"{'latitude': 40.763837, 'longitude': -73.989084}",99,4.0,10019
+seCOrCJVVhmnjhRAWjVeKA,Cava,11 W 42nd St,"{'latitude': 40.7541476, 'longitude': -73.9818586}",106,4.0,10036
+4aXPYKWBBpjDmkr9drsZ2g,Highline Pizzeria,503 W 28th St,"{'latitude': 40.751049, 'longitude': -74.0020523}",178,4.0,10001
+WEPcy_cr8dzohIcjNQ_sbQ,Just Salad,1471 3rd Ave,"{'latitude': 40.77694, 'longitude': -73.95514}",292,3.5,10028
+5C0vGV5YVjvsuvZuKvo6-w,Tony Boloney's - Hoboken,263 1st St,"{'latitude': 40.7378974, 'longitude': -74.0343764}",666,3.5,07030
+pgdSnnYfqfpwQFjVpbK6Lw,Chick-fil-A,50 E 42nd St,"{'latitude': 40.752525, 'longitude': -73.9789868}",111,4.0,10017
+JnjBLhhFpbWrKuN81KUPtg,sweetgreen,60 E 55th St,"{'latitude': 40.76032763758034, 'longitude': -73.97268994713386}",128,3.5,10022
+moLtpz7do56gtgbfcjB8Hg,Murray's Sturgeon Shop,2429 Broadway,"{'latitude': 40.7906381929501, 'longitude': -73.9751240337296}",101,4.5,10024
+ngrgNE6xT54amiZvxGttWw,Aubergine Cafe,49-22 Skillman Ave,"{'latitude': 40.7460689, 'longitude': -73.9149198}",355,4.0,11377
+d-Q0sBnYh1z99QlYD8QiCQ,sweetgreen,100 Kenmare St,"{'latitude': 40.7210635428336, 'longitude': -73.9972511652099}",285,4.0,10012
+ehyZHDeH7d1KOJLrOHfnEw,Melt Shop,111 Fulton St,"{'latitude': 40.7097319537713, 'longitude': -74.0065573416641}",401,4.0,10038
+vyRuXNXrKQBP834kGzcm3Q,Chopt Creative Salad Co.,120 West 56th St,"{'latitude': 40.7639947309263, 'longitude': -73.9786452054977}",136,3.5,10019
+Nmvr_ioiqLDEEJ5z-giHJg,Just Salad,600 3rd Ave,"{'latitude': 40.7491869, 'longitude': -73.9757667}",318,3.0,10016
+gdFLC5yIja0Ee0jH5xgiZA,Wolfnights - The Gourmet Wrap,40 W 55th St,"{'latitude': 40.762213, 'longitude': -73.976856}",27,4.5,10019
+HeOxS5_MejWE3ywVTVXZYQ,fresh&co,363 7th Ave,"{'latitude': 40.7484899, 'longitude': -73.99209}",355,3.0,10001
+ZS49AhOMRPFH_3mQd_qA7A,Peck Peck Korean Fried Chicken,250 Degraw Ave,"{'latitude': 40.875095, 'longitude': -74.021122}",714,4.5,07666
+GhIGKjOnCnfDdIv6a84xXA,Green Blend,387 8th Ave,"{'latitude': 40.74929, 'longitude': -73.9958}",107,4.0,10001
+GeXd_6XseU9E8oC1p1SaNg,sweetgreen,311 Amsterdam Ave,"{'latitude': 40.78030326463333, 'longitude': -73.98018600763737}",238,3.5,10023
+5Ges1QFylBI1KCHjZ5EZDw,Gotham Cafe,1298 2nd Ave,"{'latitude': 40.7663366540951, 'longitude': -73.9599185336314}",203,3.0,10021
+FiKu5C03pBiAn5v5DEL9UQ,The Butcher's Daughter,581 Hudson St,"{'latitude': 40.73639, 'longitude': -74.00606}",350,3.5,10014
+FEhAl2T2UGwnsdvjLIQbQA,Just Salad,320 Park Ave,"{'latitude': 40.757931551985, 'longitude': -73.973999591996}",201,3.0,10022
+NzHiK8Csmypx4f6jYhSqiQ,Lenny's Bagels,2601 Broadway,"{'latitude': 40.7961904, 'longitude': -73.9709623}",184,4.0,10025
+Ubjy_YwMiU69kdSaXC9bgw,Madison & Vine,299 Madison Ave,"{'latitude': 40.75218, 'longitude': -73.97954}",212,3.0,10017
+Q5svIDwGXgspdSlBp2emwg,Chopt Creative Salad Co.,24 East 17th St,"{'latitude': 40.7371677, 'longitude': -73.990843}",318,3.5,10003
+VrErxkSuUNEl_WtQF2RLlw,Chopt Creative Salad Co.,1376 3rd Ave,"{'latitude': 40.77383, 'longitude': -73.95784}",164,3.5,10075
+uK7BhMiook9Ij93l-5nEUA,Hanabi,1450 2nd Ave,"{'latitude': 40.771, 'longitude': -73.95636}",132,3.5,10021
+GBjxx9AZl95cCno24Wl_QA,Fiorentina Pizzeria and Grill,852 8th Ave,"{'latitude': 40.76303528104908, 'longitude': -73.98536470967744}",39,4.5,10019
+JgtKnRMbUQKXaxC-C0BynQ,Il Baretto To Go,790 11th Ave,"{'latitude': 40.76860757932551, 'longitude': -73.99233994313758}",46,4.5,10019
+tImw3a1oveSqMSjQBQq9TA,Juice Healthy Food & Drink,156 E 33rd St,"{'latitude': 40.74525, 'longitude': -73.97937}",107,3.5,10016
+IYBtdrWFMGq8tjOKgoB5Dw,Just Salad,315 Park Avenue South,"{'latitude': 40.740471, 'longitude': -73.985608}",134,4.0,10010
+2cS0i9qHFVcBFGUktUU7LA,Potbelly Sandwich Shop,"30 Rockefeller Plz, Ste L3","{'latitude': 40.75893472375383, 'longitude': -73.9795047705525}",120,3.5,10112
+dHSAudRt-uIE-4kE6ZnwOg,Lenwich,302 Columbus Ave,"{'latitude': 40.77896, 'longitude': -73.97788}",154,3.5,10023
+jpAfNfVAFTCpXU7lRepRbw,Merriweather Coffee + Kitchen,428 Hudson St,"{'latitude': 40.7305599, 'longitude': -74.0065}",117,4.0,10014
+zoJRxiyaLGV1BitvduDFcw,sweetgreen,8 E 18th St,"{'latitude': 40.7380613354427, 'longitude': -73.9912233455198}",187,3.5,10003
+SF8w10D-qvloEqZIHI3gOg,Just Salad,1306 1st Ave,"{'latitude': 40.7668319, 'longitude': -73.956693}",167,3.5,10021
+C1RjQkXeQVdvShMP1IkqAw,Lenwich,1269 1st Ave,"{'latitude': 40.7655954, 'longitude': -73.9579606}",125,3.5,10021
+-YazuZbXAM_NOny8LpLQpQ,BKNY Thai Restaurant,47-11 Francis Lewis Blvd,"{'latitude': 40.7530184239866, 'longitude': -73.780074009384}",1455,4.0,11361
+lKgTNYp-oFL_hTddicAjzw,Cava,50 Spring St,"{'latitude': 40.72192791798716, 'longitude': -73.99651188343245}",150,4.0,10012
+G6wqjI4NFAvc_46P_dsjjg,The Mill,140 E 52nd St,"{'latitude': 40.7574988825129, 'longitude': -73.9712691307068}",89,3.5,10022
+IhY6ZCZ8neZ1RfjBjkYBPQ,Fields Good Chicken,148 Madison Ave,"{'latitude': 40.746471, 'longitude': -73.984245}",104,3.5,10016
+gymgQ5S_83IxaAtH0cJMsA,Just Salad,321 W 49th St,"{'latitude': 40.762168, 'longitude': -73.987179}",189,3.5,10019
+G0Eghmhmmpqv8OZLSsWUuQ,Mangia - 422 Madison,422 Madison Ave,"{'latitude': 40.757079, 'longitude': -73.976471}",95,3.5,10017
+xhWqjDuoORYBVgZVc4uK3g,Natural Blend,769A Washington Ave,"{'latitude': 40.6738776, 'longitude': -73.9628763}",219,4.5,11238
+tmz9P0-WtTSL_5AeNPoLSA,Chopt Creative Salad Co.,666 3rd Ave,"{'latitude': 40.7515761593805, 'longitude': -73.9746513962746}",129,3.5,10017
+_BsM67A1_JqAmgXA3SznKg,La Fusta Restaurant,80-32 Baxter Ave,"{'latitude': 40.7446937, 'longitude': -73.8843894}",306,4.0,11373
+VT8szgqlMT3Srnl01i11Ng,Chopt Creative Salad Co.,60 East 56th St,"{'latitude': 40.76114, 'longitude': -73.97231}",121,3.0,10022
+iE6kR5wsCbldJHKZ5kGLcw,Greektown,86 Garden St,"{'latitude': 40.7373679, 'longitude': -74.0329029529499}",221,4.0,07030
+omP7txUGqCUkBZVUWuH-Eg,Tino’s Artisan Pizza,199 Warren St,"{'latitude': 40.71416668884163, 'longitude': -74.03979259017832}",107,4.5,07302
+Hqczhc7MtIy_bzxhOpaXLg,Just Salad,2 East 39th St,"{'latitude': 40.75134, 'longitude': -73.98198}",60,4.0,10016
+Xqm8Ywu-9bBxbMypocVx8g,Two Boots Pizza - West Village,101 7th Ave S,"{'latitude': 40.73314309005766, 'longitude': -74.0027964258894}",57,4.5,10014
+7vl4N31vGFEJwK-qq26uGQ,Just Salad,"1412 Broadway, Ste 106","{'latitude': 40.75362767830822, 'longitude': -73.9865612}",49,4.0,10018
+c-nOD2qAj9b2LfY_uK6WFA,Cafe 28,245 5th Ave,"{'latitude': 40.7445372084, 'longitude': -73.987168336272}",240,3.0,10016
+V67wFDfxZyZ_8p74qBlv8Q,sweetgreen,162 N 4th St,"{'latitude': 40.7158037924556, 'longitude': -73.9591804}",277,3.5,11211
+ogrPckKdGvZwRCr4C6rdXA,Chopt Creative Salad Co.,11 West 42nd St,"{'latitude': 40.7541235723258, 'longitude': -73.9819320402696}",153,3.0,10036
+2L6ETcOuGolqHSLDulikUA,Soma Salads,520 8th Ave,"{'latitude': 40.7533394, 'longitude': -73.992425}",19,5.0,10018
+lnUqcsrdbY6mK0HtkNFlng,sweetgreen,1321 1st Ave,"{'latitude': 40.7671282765314, 'longitude': -73.9568462222815}",162,3.0,10021
+9TvM7Wt5KgJcl57pGob0Yg,Muscle Maker Grill Midtown East,1099 2nd Ave,"{'latitude': 40.759941, 'longitude': -73.965156}",93,3.5,10022
+NI0gvoYzOK0EjjoGOlYFzA,Potbelly Sandwich Shop,22 E 17th St,"{'latitude': 40.73733, 'longitude': -73.99109}",155,3.5,10003
+J4qehrNgX-8fi9-TTiVuBA,Roti,100 Maiden Ln,"{'latitude': 40.706518, 'longitude': -74.007133}",280,4.0,10038
+NRrlEDVe30IGxCpCq62CAQ,Just Salad,291 7th Ave,"{'latitude': 40.746204, 'longitude': -73.993705}",113,4.0,10001
+FOf_vQQ2HshtN3HUBPlNiw,The Sandwich Shop,658A Grand St,"{'latitude': 40.71132, 'longitude': -73.94618}",168,4.0,11211
+gveiLCZPJ-Fv_LjmrhWgSA,INDAY,285 Madison Ave,"{'latitude': 40.751655, 'longitude': -73.979768}",21,4.5,10017
+88zRCZWAXKMZwBTCt-S69w,Quality Greens Kitchen,227 Washington St,"{'latitude': 40.739508, 'longitude': -74.029947}",226,4.0,07030
+hoxICZGHh4JWPfNfeYJL-w,Cafe 37,47 W 37th St,"{'latitude': 40.751439, 'longitude': -73.985401}",50,4.0,10018
+eJZKh2i-Ey_WSScx9qiYOw,Bravo Pizza,360 7th Ave,"{'latitude': 40.7484899, 'longitude': -73.9928}",122,3.5,10001
+TEmIBOuCPVeGg3c_Ofk1bg,fresh&co,1381 6th Ave,"{'latitude': 40.76409, 'longitude': -73.97783}",40,4.0,10019
+iK533XH-C12eewRxYGMnxQ,Just Salad,2056 Broadway,"{'latitude': 40.7775917, 'longitude': -73.9817886}",165,3.5,10023
+8UwRTdW4OtSEI2rJ_p1zGg,Dimes,49 Canal St,"{'latitude': 40.714973, 'longitude': -73.991539}",278,3.5,10002
+i8sIj_zq_quarv9SmJS_rw,Krave It Pizza & Sandwich Joint ,36-18 30th Ave,"{'latitude': 40.764537, 'longitude': -73.916935}",69,4.5,11103
+6Stlkxa6rUI77VglrpinmQ,Carrot Express,18 W 23rd St,"{'latitude': 40.74167086948014, 'longitude': -73.99045300305843}",50,4.0,10010
+0NBxUfRbeYp5pIMgTqrSSw,Mangia - Flatiron,22 W 23rd St,"{'latitude': 40.7417606863971, 'longitude': -73.9906369}",183,3.0,10010
+SJjQ-1nXMX9sIjjDm4ia2A,FP Patisserie,1 W 59th St,"{'latitude': 40.76544676951196, 'longitude': -73.97574183235231}",59,3.5,10019
+elvL_HW9jfLLDVhwoIx_Ww,Veggie Castle II,13209 Liberty Ave,"{'latitude': 40.6908513035417, 'longitude': -73.8138093799353}",528,4.5,11419
+6salH2D1m9Fe_SMH1tTscQ,Just Salad,750 3rd Avenue,"{'latitude': 40.7537, 'longitude': -73.97254}",53,4.0,10017
+2N1y8Cv7R92lDYia_eruCw,Platter King,7704 Bergenline Ave,"{'latitude': 40.80032, 'longitude': -74.00733}",198,4.0,07047
+5DcxBNwS7mSF7vPKS-1cew,Chopt Creative Salad Co.,145 West 51st St,"{'latitude': 40.7612033759921, 'longitude': -73.9811745920357}",152,3.0,10019
+nkjcmB7jYJU-SPzdYM5g6w,BLT Prime,1032 Lexington Ave,"{'latitude': 40.77161, 'longitude': -73.96169}",93,3.5,10021
+XSvT4-d8mDeXBJDoG7pZHw,d Elici,71 Nassau St,"{'latitude': 40.7097126477894, 'longitude': -74.0083819832646}",128,4.0,10038
+hz75DoiAAMHS1Y6fbubRJQ,Silo Cafe,805 3rd Ave,"{'latitude': 40.75537, 'longitude': -73.97054}",63,3.5,10022
+jhyib_wSV5jHUtsxtE22wg,Chick-fil-A,711 Lexington Ave,"{'latitude': 40.761171, 'longitude': -73.968585}",59,3.5,10022
+HCW5HDT6YZU25rkJes9r6g,Cava,1385 Broadway,"{'latitude': 40.7528718388986, 'longitude': -73.9876741598475}",101,3.5,10018
+1Lsb6F7DprPLabtbMHNURA,Lenwich,469 Columbus Ave,"{'latitude': 40.784154, 'longitude': -73.973534}",147,3.5,10024
+pdrgfJBiXIjXTQM_dusTfA,Lenwich,1024 2nd Ave,"{'latitude': 40.7573999, 'longitude': -73.96645}",114,3.0,10022
+8mKF1Nud4Ye3PMHwIMwW_A,Nurish,637 Washington Ave,"{'latitude': 40.67834, 'longitude': -73.96363}",114,4.5,11238
+PZlofInZTZnp2jwL3L5sqw,fresh&co,200 W 57th St,"{'latitude': 40.76554, 'longitude': -73.98046}",101,3.5,10019
+jTUHTXbwMAVQWMvEgPBHyg,Just Salad,53 E 8th St,"{'latitude': 40.7313273493824, 'longitude': -73.9937896921767}",209,3.5,10003
+2xxX3t7ykIlyoaOXZdRZNw,Bagel World,339 5th Ave,"{'latitude': 40.67205, 'longitude': -73.98373}",257,4.5,11215
+LZA0bWz_Xn--tSgiaPLlkw,sweetgreen,1500 3rd Ave,"{'latitude': 40.7780118756349, 'longitude': -73.954891682209}",239,3.0,10028
+yB4YcbSpAFE8XGJuQT-6zA,Cava,30 Montgomery St,"{'latitude': 40.716799944155, 'longitude': -74.0355072729312}",219,4.0,07302
+OMw-E4_y1BHv4EgWdtFleg,Pokeworks,330 West 34th St,"{'latitude': 40.75258, 'longitude': -73.99551}",29,4.5,10001
+MRIFiSBm6deHGLzJjTyWfw,Lenwich,202 W 40th St,"{'latitude': 40.75489, 'longitude': -73.98847}",53,4.0,10018
+o__rNMK8xCSPKPVe6yIlxQ,GreenStreets Salads,67 Irving Ave,"{'latitude': 40.70455, 'longitude': -73.92387}",232,4.0,11237
+HRwLdsd_debjXbB9bP1SFA,Chick-fil-A,918 8th Ave,"{'latitude': 40.7650002, 'longitude': -73.9838178}",88,3.5,10019
+RJ7WP7PaYz_-4X2XgXl5uA,Potbelly Sandwich Shop,101 Maiden Ln,"{'latitude': 40.7070133727982, 'longitude': -74.0069238742571}",211,4.0,10038
+_B7pTmtDkPE7F1dNR_DGRA,Stage Star Deli,105 W 55th St,"{'latitude': 40.7634735107422, 'longitude': -73.9785995483398}",85,3.5,10019
+2pJ782hnKTK0MWbc0H7EDw,Ditmars Thai,35-13 Ditmars Blvd,"{'latitude': 40.774694, 'longitude': -73.908293}",51,4.5,11105
+rO4-ytxRRN98GMk2gSXxjQ,honeygrow,120 Washington St,"{'latitude': 40.73827000147528, 'longitude': -74.03094254869448}",366,3.5,07030
+lV9TCH9AwdBpFKm0OMAXSA,Potbelly Sandwich Shop,150 E 52nd St,"{'latitude': 40.7572917, 'longitude': -73.970623}",63,3.5,10022
+2T0PrQv78pbj9HCrFQQY_g,Lenwich,1332 3rd Ave,"{'latitude': 40.772617, 'longitude': -73.958879}",164,3.0,10075
+nZC3WQp6XrmIYIoZSa6r3Q,Olive's,191 Prince St,"{'latitude': 40.72662, 'longitude': -74.00241}",234,3.5,10012
+axVzeaTizNeMrwHP6ylydQ,Potbelly Sandwich Shop,46 W 56th St,"{'latitude': 40.76302, 'longitude': -73.97676}",80,3.5,10019
+rGkrLkqGDLZKFysQs80JNA,Chopt Creative Salad Co.,"17 W 33rd St, Ste 125","{'latitude': 40.74844, 'longitude': -73.9862574}",52,4.0,10118
+YZpV-LFkLK2aItEechgUeA,Honeybrains,916 8th Ave,"{'latitude': 40.76492, 'longitude': -73.98382}",42,4.0,10019
+DkcVNKDDoUJGkLN9Pe4R0w,H&H Bagels,526 Columbus Ave,"{'latitude': 40.7861731, 'longitude': -73.9726413}",289,3.0,10024
+i9ohlvanaW3c9o5_6ziXDw,fresh&co,127 E 60th St,"{'latitude': 40.76327, 'longitude': -73.96814}",94,3.0,10022
+0WE35TwxqtdXNDgNAs6ZDg,Panera Bread,3801 35th Avenue,"{'latitude': 40.7554973, 'longitude': -73.9225231}",218,3.0,11101
+DYzpeSntTyL7ARvX3vSp6A,Orion Diner & Grill,395 2nd Ave,"{'latitude': 40.7378, 'longitude': -73.9812}",260,3.0,10010
+Ucg3flg-2tJAahEePIoigQ,Magdalene,524 Lorimer St,"{'latitude': 40.71252, 'longitude': -73.94899}",60,4.5,11211
+eYo9t3yJjSbjaWrwpApkXA,Stonefruit Espresso + Kitchen,1058 Bedford Ave,"{'latitude': 40.688857, 'longitude': -73.95526}",185,4.0,11205
+W4mnJcaf42jqkSOHVjnWVw,Fields Good Chicken,101 Maiden Ln,"{'latitude': 40.707, 'longitude': -74.00686}",200,3.5,10038
+kQym0lOSw579vveTMidBfQ,Chick-fil-A,1536 3rd Ave,"{'latitude': 40.7792574, 'longitude': -73.9539523030758}",63,3.5,10028
+gDIxUaEpdwrU8_5MqvmP2Q,The Great American Health Bar,35 W 57th St,"{'latitude': 40.76398347281035, 'longitude': -73.97586221288041}",174,3.0,10019
+I7z828r-k_shx2JbqL2DeQ,Little Myanmar,150 E 2nd St,"{'latitude': 40.72300252512418, 'longitude': -73.98551929999999}",65,4.0,10009
+n7evyqn87ZTJj7QtGxpsww,General Green,650 Manhattan Ave,"{'latitude': 40.724419, 'longitude': -73.950919}",24,4.5,11222
+aMG1RR8UPLL4Kl33SQr9RA,Chop & Go,643 Lexington Ave,"{'latitude': 40.759297, 'longitude': -73.970186}",13,4.5,10022
+5MDlm5mD7aH0_8FnELr82g,fresh&co,1260 Lexington Ave,"{'latitude': 40.7788898183644, 'longitude': -73.9560877288361}",130,3.0,10021
+_vV3nIYnFo2IdYgU3AmbWw,Lenwich,940 8th Ave,"{'latitude': 40.76573, 'longitude': -73.98338}",88,3.0,10019
+fuALJnzgGDh1yiXuEkqlbQ,Chopt Creative Salad Co.,18 East 23rd St,"{'latitude': 40.74067, 'longitude': -73.98824}",194,3.0,10010
+UbLsVnix6_MZ-a7uRB_c-w,Punchline Juice Bar,638 Nostrand Ave,"{'latitude': 40.6765631585663, 'longitude': -73.9500241}",87,4.5,11216
+oxPKj_3mUR7Ijy9m8lVtgQ,Taza Cafe & Deli,350 Park Ave S,"{'latitude': 40.74182, 'longitude': -73.98553}",72,3.5,10010
+_dJBogcWfMC2Fe2Um0PntA,'Wichcraft - Garment District,1407 Broadway,"{'latitude': 40.75353, 'longitude': -73.98777}",73,3.5,10018
+2fNVP8VMjETNu7TF7L6A1A,sweetgreen,137 E 61st St,"{'latitude': 40.7637144, 'longitude': -73.9674801}",154,2.5,10065
+MpLvkp02LithuqrtvF2s5g,Chopt Creative Salad Co.,54 Spring St,"{'latitude': 40.7220423685173, 'longitude': -73.9966765780916}",153,3.5,10012
+TFdLbSBwuIjikxBl4vvkQQ,S & S Calabro Pizzeria,3065 14th St,"{'latitude': 40.769171, 'longitude': -73.931012}",56,4.0,11102
+GHA89UOpqFmylJ5dO03NfQ,Smith Gourmet Deli,126 Smith St,"{'latitude': 40.68751, 'longitude': -73.99007}",52,5.0,11201
+-6_mNKxOChmZb6qcdMfOtA,Chelsea Bagel & Cafe,62 East 34th St,"{'latitude': 40.74719, 'longitude': -73.98202}",107,3.0,10016
+CneFQFfg8leJrgMqsleUUQ,Lenwich,16 W 23rd St,"{'latitude': 40.74161, 'longitude': -73.99045}",149,3.0,10010
+veNpXv76nX5H7FxK-14S5g,Chopt Creative Salad Co.,100 Park Ave,"{'latitude': 40.75131633830445, 'longitude': -73.97939154245553}",88,3.0,10017
+alaGGSDEpNcckPB93da3Mw,sweetgreen,1114 6th Ave,"{'latitude': 40.7546422192153, 'longitude': -73.9831031299337}",117,3.0,10036
+ar25bKrHdK6PlQPIN2vrJg,Cava,678 6th Ave,"{'latitude': 40.7416419, 'longitude': -73.9933102}",71,3.5,10010
+qoBcWhGwlcUsKIQ2nB22vA,Lombardo's of Bay Ridge,279 71st St,"{'latitude': 40.634741, 'longitude': -74.0284259}",191,4.5,11209
+zxWGWhFhiyHFtH0H5KbjFg,Maine Artisan Cafe,254 Old River Rd,"{'latitude': 40.80924448379481, 'longitude': -73.99076097280545}",27,5.0,07020
+a0oAiB0itLNQ8E1_GY5_lw,Chick-fil-A,144 Fulton St,"{'latitude': 40.7104194, 'longitude': -74.0085519}",210,3.5,10038
+nsIHA99ryl_1xDjRtyVJDA,Lenwich,120 University Pl,"{'latitude': 40.734715, 'longitude': -73.99235}",159,3.0,10003
+3bNQrib_jfZZNOCe80PHRg,Europa Cafe,3 Times Sq,"{'latitude': 40.7567458632541, 'longitude': -73.9867610524475}",149,2.5,10036
+1cH4vC7OOtAd1GrQ0FcY5Q,sweetgreen,1384 Broadway,"{'latitude': 40.7526131, 'longitude': -73.9871517837024}",82,3.0,10018
+ISFrB1bSDLADMLywdxkZ1g,Cafe Hestia,"686 3rd Ave, Ste 2","{'latitude': 40.75176, 'longitude': -73.97413}",109,3.0,10174
+-Lw-izwLM1IGcSWenfzMSg,Hale and Hearty Soups,1410 Broadway,"{'latitude': 40.7533298131906, 'longitude': -73.98687197187702}",68,3.5,10018
+SSCbDzX4e11kpojBWeFWfQ,Clinton Square Pizza,201 Clinton St,"{'latitude': 40.71395, 'longitude': -73.98724}",88,4.0,10002
+0jFEKQXriBXb_RxWXiHVUg,Mad For Chicken,153 8th Ave,"{'latitude': 40.74209, 'longitude': -74.00104}",32,4.5,10011
+YQrcTLWazeBHwYGOCCocuQ,sweetgreen,226 Bleecker St,"{'latitude': 40.7299921256319, 'longitude': -74.0024338519833}",128,3.5,10014
+guLhJRVpZAYrkSbFuyb5_Q,honeygrow,194 Joralemon St,"{'latitude': 40.69249496963276, 'longitude': -73.99139982350925}",210,3.5,11201
+opA6T-cCCdBmixRs_3Q3Lw,Calyer,519 Myrtle Ave,"{'latitude': 40.6938, 'longitude': -73.96394}",45,5.0,11205
+wC_TUZaKEQue8mhrCTnDgQ,Lucky Louie,535 Hudson Flr Grd,"{'latitude': 40.734627670191685, 'longitude': -74.00635439999999}",37,4.5,10014
+c_jMZQ03wHWUCgQNM9aiJQ,Ray's Pizza & Bagel Cafe,2 St Marks Pl,"{'latitude': 40.72929, 'longitude': -73.98965}",320,2.5,10003
+Orb334SNTA7LEYW9XSVX5Q,Baumgart's Cafe,"59 The Promenade, Unit 9","{'latitude': 40.8062091886267, 'longitude': -73.9872350335213}",305,3.0,07020
+oWyCAo8_JGukhlzl7Xg0Rw,Sunday in Brooklyn,68 S 2nd St,"{'latitude': 40.7140625, 'longitude': -73.96537832544217}",30,4.5,11249
+gtT9TZBNFn9xlnjup5Q8sg,Hale and Hearty Soups,75 9th Ave,"{'latitude': 40.74254, 'longitude': -74.005613}",96,3.5,10011
+eJW43S76Sy2wwA3VeZzKkQ,sweetgreen,32 Gansevoort St,"{'latitude': 40.7391831130334, 'longitude': -74.0058587398562}",105,3.5,10014
+QqULonsHw9vcXp30eVJ-nw,Pokeworks,169 Bedford Ave,"{'latitude': 40.7181558, 'longitude': -73.9571542}",26,4.5,11211
+htoeGFLUzB37wQee7A2qRQ,The Halal Spot,474 Myrtle Ave,"{'latitude': 40.6933499872684, 'longitude': -73.9663421}",112,4.0,11205
+xCkMpu6GfCLKAHLd8C41fA,Just Salad,"151 W 34th St, 4th Fl, Fl 4 of Macy's","{'latitude': 40.750622, 'longitude': -73.988591}",58,3.5,10001
+knR68q05QF1NjJ7WMyqhfg,Smile To Go,23 Lexington Ave,"{'latitude': 40.74003, 'longitude': -73.984209}",56,3.5,10010
+87C1A7TyutLNCZxBPCdWsQ,Cafe Hestia,513 7th Ave,"{'latitude': 40.753127852035, 'longitude': -73.988746209787}",137,2.5,10018
+LDgQpnYjHaEO-B7ZD9jknQ,Honeybrains,34 W 22nd St,"{'latitude': 40.741519, 'longitude': -73.992004}",55,3.5,10010
+pfeYELEKiAXlHY6fWnviEA,sweetgreen,1740 Broadway,"{'latitude': 40.7652583, 'longitude': -73.9817757}",30,4.0,10019
+0u69i-Wd09nXcnxnhTz9Zg,Amazon Go,405 Lexington Ave,"{'latitude': 40.7515846622822, 'longitude': -73.97579007873466}",15,4.5,10174
+MmhNBTh5w60Agc3Dm-TWDQ,T Bar,116 E 60th St,"{'latitude': 40.76306321584347, 'longitude': -73.9687038380254}",19,4.0,10022
+fPPlnbcVExevivoNEgnS7A,Panera Bread,330 5th Ave,"{'latitude': 40.747596988536, 'longitude': -73.9854515343972}",158,2.5,10001
+erGMeWsTisZNrKzfFWCoWQ,Just Salad,140 8th Ave,"{'latitude': 40.7413843, 'longitude': -74.0011314}",122,3.0,10011
+flNRtk8TX-4PWn6Y3_Fubg,Cava,280 Madison Ave,"{'latitude': 40.7514214, 'longitude': -73.9805145}",43,3.5,10016
+_w_bvxnA_ARuQbu9K-lTAw,Lenny's Pizza,44-08 Greenpoint Ave,"{'latitude': 40.74145, 'longitude': -73.92022}",146,3.5,11104
+bNO0801dOoSSFJuDdTDzYQ,Hadramout Restaurant,172 Atlantic Ave,"{'latitude': 40.68994477223811, 'longitude': -73.9938134845174}",114,4.0,11201
+6dFUAsPQeGkUjEuDGUDg2Q,Bagelsmith,566 Lorimer St,"{'latitude': 40.7138226758298, 'longitude': -73.9492639931891}",352,3.0,11211
+jsWvdZdi-7oE1c9VU5qHFg,sweetgreen,67 Wall St,"{'latitude': 40.7056257, 'longitude': -74.0082936}",199,3.5,10005
+EpHRWT8KCweAxkYb4AquMQ,Pranzo Pizza & Pasta,44 Water St,"{'latitude': 40.7036301, 'longitude': -74.0101127}",111,4.0,10004
+pQo-KWQxuH26y0IzZbQj0A,Joe & Sal's Pizza,842 Franklin Ave,"{'latitude': 40.669299, 'longitude': -73.958753}",191,4.0,11225
+lBBTBcGgJKkH6aPfSbg1GA,Cafe Abbondanza,146 W 46th St,"{'latitude': 40.7581377, 'longitude': -73.984067}",31,4.0,10036
+lWiGt3bH7k2Zxynh9hE92g,fresh&co,729 Broadway,"{'latitude': 40.729780151464, 'longitude': -73.9933722881353}",177,3.0,10003
+rdo_6F3iH2exAHqSsc6j-A,Mama Pho,172 Bedford Ave,"{'latitude': 40.71816, 'longitude': -73.95754}",95,3.5,11249
+wz8Ljo2YkO5F7nsxvrtqQw,sweetgreen,413 Greenwich St,"{'latitude': 40.7213353345147, 'longitude': -74.0097010834234}",140,3.5,10013
+Fl8f8jOGyTV9_SqHgbGZbA,Del Frisco's Grille,250 Vesey St,"{'latitude': 40.714167, 'longitude': -74.016111}",202,3.5,10080
+Wt306odjwl9oRhN04IMLNw,'ESSEN,519 8th Ave,"{'latitude': 40.75341, 'longitude': -73.99302}",123,2.5,10018
+SwJ6HEFHwIwH4HekceoyCA,fresh&co,1211 6th Ave,"{'latitude': 40.758758, 'longitude': -73.982545}",97,2.5,10036
+wSASXdz14Ma-djb8l2T1SQ,Pide Lahmajoun,"442 Anderson Ave, Ste C","{'latitude': 40.82064788801918, 'longitude': -73.99110244313795}",27,4.5,07010
+U1MkaYLx7PL8qZbgi4BsCQ,The Green Chicpea,59 Halsey St,"{'latitude': 40.7405335797211, 'longitude': -74.17134963295875}",200,4.5,07102
+jjBcUeE4-Z8VoGFaYkdxvw,sweetgreen,101 University Pl,"{'latitude': 40.7339738378144, 'longitude': -73.992542}",62,3.5,10003
+vU6dvor4ogBqX7FSahxz7A,Chopt Creative Salad Co.,51 Astor Place,"{'latitude': 40.7303193483424, 'longitude': -73.9903671294451}",94,3.5,10003
+n4m37Dm2Y5MUPF_dFGG_ww,Fort Washington Public House,3938 Broadway,"{'latitude': 40.8390591026124, 'longitude': -73.9410637691617}",113,4.0,10032
+Bo40JZWcbtzBQooibgiumA,Chopt Creative Salad Co.,341 Amsterdam Ave,"{'latitude': 40.78126, 'longitude': -73.97929}",93,3.0,10024
+kBIbwJ0hTzSqZ9Crv5e6FQ,Wolfnights - The Gourmet Wrap,489 3rd Ave,"{'latitude': 40.74513, 'longitude': -73.97835}",14,4.5,10016
+Lk3i0mZvzBBYts6BMOozDw,Aragvi,230 E 44th St,"{'latitude': 40.751298, 'longitude': -73.972179}",9,5.0,10017
+KceGTE_QIDXMKoHRFzXGUQ,Nova Pizza & Pasta,1605 Lemoine Ave,"{'latitude': 40.84919, 'longitude': -73.97083}",156,4.0,07024
+C0Gv8NWtYAcaol7uVmGHvA,sweetgreen,10 Astor Pl,"{'latitude': 40.729699, 'longitude': -73.992234}",140,3.0,10003
+WNGagKXm8NTvX9EzLzk9og,sweetgreen,2937 Broadway,"{'latitude': 40.8072939752697, 'longitude': -73.9647533}",206,3.0,10025
+D9uG__LwKnsRT5jA6L1Wtg,Brain Food,967 Bedford Ave,"{'latitude': 40.69107, 'longitude': -73.95528}",128,4.0,11205
+ow_x7T4StI9plwX4NXdDow,Fields Good Chicken,24 E 12th St,"{'latitude': 40.73387, 'longitude': -73.993295}",20,4.5,10003
+ACNA-RPHmfen6genyasLdQ,Eden's,120 Franklin St,"{'latitude': 40.72886, 'longitude': -73.95727}",14,5.0,11222
+9aysIOu2zqCF71qw8LP0nA,Good Neighbor Queens,3100 47th Ave,"{'latitude': 40.7428456221432, 'longitude': -73.9356750810203}",18,4.5,11101
+Ptd1vzkvdeZUws9zuLR4FA,Omar’s Mediterranean Cuisine,15 Ann St,"{'latitude': 40.71096, 'longitude': -74.00787}",21,5.0,10038
+14BLy22t6EKuPO5aAQ6R8g,Just Salad,233 Broadway,"{'latitude': 40.71234276137147, 'longitude': -74.00806126094226}",127,3.5,10279
+VSfYR6MriVSQDAmO0gPFPQ,Just Salad,1290 Sixth Ave,"{'latitude': 40.76092, 'longitude': -73.97948}",27,4.0,10104
+FfRaW3Vc6dNBV_Tl4X69yw,Blaze Pizza,5 Teterboro Landing Dr,"{'latitude': 40.86091, 'longitude': -74.061593}",270,4.0,07608
+m5tGGjyfjoQ_EOalKoJUAQ,PokéBowl Station,237 Flatbush Ave,"{'latitude': 40.68114, 'longitude': -73.97495}",115,4.0,11217
+FZondPERwmoM9ngJGs6n2g,Aleef Cafe,333 W 39th St,"{'latitude': 40.75617, 'longitude': -73.99259}",35,4.0,10018
+QWtHFuMwwwM140R9eAlEmw,Joe-Joe’s Green Bar,1111 Quentin Rd,"{'latitude': 40.6080077, 'longitude': -73.9615212}",65,5.0,11229
+ZL-avE8kIuOVItwU-HMqMQ,The Ugly Duckling,106 3rd Ave,"{'latitude': 40.73281, 'longitude': -73.98784}",75,3.5,10003
+UK8Ju3V32B5g_kh2GNNMjA,Just Salad,182 North 4th,"{'latitude': 40.7153455, 'longitude': -73.9584866}",39,4.5,11211
+gmJEBBWAKD8zSfBIdJfrsA,Sweet Mama's Soul Food Restaurant & Salad Bar,689 Lenox Ave,"{'latitude': 40.8200624492871, 'longitude': -73.9364389139661}",121,3.5,10037
+lgndZLoGNjS8gSBx-fS-Uw,La Bagel Delight at Court St,90 Court St,"{'latitude': 40.69117, 'longitude': -73.99182}",174,3.5,11201
+mhdDsouVJldeaRaT2hlPoQ,King Falafel,71 US Hwy 46,"{'latitude': 40.893461299, 'longitude': -74.1237983108}",316,4.0,07407
+4wzLtGY3GtVJzYCmkagsqg,Rice X Beans,688 10th Ave,"{'latitude': 40.76351, 'longitude': -73.99242}",17,4.5,10019
+lFsctNqFgsqfmQagsxHtyg,Fields Good Chicken,599 Lexington Ave,"{'latitude': 40.757963, 'longitude': -73.970836}",12,4.0,10022
+lC7yrPSQIkNOJWsfemTcaQ,Chopt Creative Salad Co.,1450 Broadway,"{'latitude': 40.754691, 'longitude': -73.986222}",76,3.0,10018
+WBNXo3byv64a0hn40c9Zuw,Montague Street Bagels,108 Montague St,"{'latitude': 40.6949, 'longitude': -73.995183}",244,3.0,11201
+YK-7Ajz_IpVpblX1kqWsNg,Soram,321 Broad Ave,"{'latitude': 40.824656, 'longitude': -74.01175}",87,4.0,07657
+PdLVrgBw6QSmZgVNgn9msw,IPizzaNY,"707 9th Ave, Hell's Kitchen","{'latitude': 40.76265, 'longitude': -73.98996}",82,3.0,10019
+hGWmAkc6mWSYkDzbc878pw,Amazon Go,150 E 53rd St,"{'latitude': 40.75795071231695, 'longitude': -73.97080019996066}",13,4.0,10022
+SqqJVwt_89xMg0jlfKULjg,mood 'wiches,2448 Lemoine Ave,"{'latitude': 40.8640943189921, 'longitude': -73.9621050715453}",211,4.0,07024
+RHx6U4QoFgU6PgddbHM0sQ,Geena’s Cucina,36-21 Review Ave,"{'latitude': 40.733917104946755, 'longitude': -73.93735297083491}",20,4.5,11101
+0BJOYDFPW1UtsSOeRtc42g,That's A Wrap,45-52 Bell Blvd,"{'latitude': 40.75874, 'longitude': -73.76888}",317,4.0,11361
+hj6swjcIVxAZToopN9UqhQ,Hourglass Bistro,"373 W 46th St, Restaurant Row","{'latitude': 40.76095, 'longitude': -73.99033}",18,4.0,10036
+esNmc5qDddtI_Uzkb_yZYQ,Blaze Pizza,691 Broad St,"{'latitude': 40.738387, 'longitude': -74.1708115}",253,4.0,07102
+Qu3xQh6cQ8BDwHIBaEtHuQ,Belly Cake,38-36 Bell Blvd,"{'latitude': 40.765545, 'longitude': -73.772207}",181,4.0,11361
+tGg27PZub_62TZGcRHfxSg,Essen Fast Slow Food,160 Varick St,"{'latitude': 40.7267926, 'longitude': -74.0053737}",162,3.0,10013
+Oxh2tP15oAG6g7tlj9njGg,Lenwich,459 Park Ave S,"{'latitude': 40.744979, 'longitude': -73.982587}",71,3.0,10016
+ogKW1k0UknvchuNsw7_5Hg,Just Salad,100 Maiden Ln,"{'latitude': 40.706812, 'longitude': -74.007107}",243,3.0,10038
+kjf6ytTnwFaSxfYtzhLzWg,Nature's Grill Cafe,283 Smith St,"{'latitude': 40.682309, 'longitude': -73.993272}",309,3.0,11231
+deZi8F9ySV_kNyZpvYqyCg,Au Jus,2621 Broadway,"{'latitude': 40.79681, 'longitude': -73.97053}",61,3.5,10025
+5AozkAQKOfRMEodf_FYfww,Sauce and Soda,40 Wyckoff Ave,"{'latitude': 40.70586, 'longitude': -73.92193}",78,4.0,11237
+uhEjeHjg7zzDx6aA9UJFJw,Chick-fil-A,30 Mall Dr W,"{'latitude': 40.727057, 'longitude': -74.037882}",68,4.0,07310
+e2iz_3wMcX55JDBV575Nzg,Juicy Platters - Harrison,406 Bergen St,"{'latitude': 40.74352333, 'longitude': -74.15543167}",105,4.5,07029
+G4NUm5zm5pWDhd7eORU8xQ,Athenian Fresh Grill,11-35 River Rd,"{'latitude': 40.78662, 'longitude': -74.14602}",181,4.0,07031
+HFybdvvjJtmungN1wCowwQ,Previti Pizza 34th,344 E 34th St,"{'latitude': 40.74382, 'longitude': -73.97401}",10,5.0,10016
+De_10VF2CrC2moWaPA81mg,Just Salad,252 7th Ave,"{'latitude': 40.6694291366086, 'longitude': -73.9794939539662}",316,3.5,11215
+rRFNtkWP7cPdCKmL-RSi6A,Monty Q's,158 Montague St,"{'latitude': 40.6942, 'longitude': -73.99299}",245,3.0,11201
+t_f6TFWjgq4z-j922X5L4w,fresh&co,444 10th Ave,"{'latitude': 40.7551174118545, 'longitude': -73.9986209571362}",37,3.5,10001
+KYXvNIHVkeTnL4-Rg6F_Cg,fresh&co,729 Broadway,"{'latitude': 40.729779, 'longitude': -73.99334}",69,3.0,10003
+DsQQB42Ns1Na4CYcQktlbg,Potbelly Sandwich Shop,333 7th Ave,"{'latitude': 40.747524, 'longitude': -73.992901}",42,3.0,10001
+Ad9AgwWAyBdiJabMBTVZSw,sweetgreen,159 Columbus Ave,"{'latitude': 40.774337, 'longitude': -73.980821}",26,3.5,10023
+t1RmsSWVIwTKFKEMpv-cWw,Stacked Sandwich Shop,68-60 Austin St,"{'latitude': 40.722074, 'longitude': -73.850586}",105,4.0,11375
+d2fZvfC7h3S6o49yF78bKA,Panera Bread,310 Washington St,"{'latitude': 40.740448, 'longitude': -74.0301876}",168,3.0,07030
+yVJc_3K4yzvKPDnxJ_3TEg,Chopt Creative Salad Co.,80 Pine St,"{'latitude': 40.706293, 'longitude': -74.00703}",192,3.0,10005
+p1izzP-7YomYrP2spmOrBQ,SubsConscious,1213 Amsterdam Ave,"{'latitude': 40.8089829, 'longitude': -73.959275}",179,3.0,10027
+Co1XUf86LqtkUmFSg71jmQ,Mike's Pasta & Sandwich Shoppe,95 Harrison St,"{'latitude': 40.810013, 'longitude': -74.162671}",63,5.0,07110
+ibS4MPCwdVEDSt5pXN5r9w,Olive Garden Italian Restaurant,500 New Jersey 3 W,"{'latitude': 40.7907619, 'longitude': -74.051998}",295,3.0,07094
+oZIo2MOmnd_CML1F11N3Vg,Niforos Corner,35-60 11th St,"{'latitude': 40.7613278, 'longitude': -73.9400004}",33,3.5,11106
+6g8fOqVCNqp-gcFzTwmfxw,La Vita Pizza,1670 3rd Ave,"{'latitude': 40.783721, 'longitude': -73.950765}",16,4.0,10128
+nBDEolWROEo33fDwIVccSg,Spring Food Spot,14-21 Broadway Ave,"{'latitude': 40.7660418, 'longitude': -73.9328363}",13,4.5,11106
+r--VG0XCkbqRx8-CDhzaLA,Superior Gourmet Marketplace,555 10th Ave,"{'latitude': 40.7588707689835, 'longitude': -73.996108364357}",32,3.5,10018
+kdhY8Ccrti0avzpcYjYzhg,Primal Cut Steakhouse,333 E 60th St,"{'latitude': 40.7606647, 'longitude': -73.9623119}",14,4.0,10022
+iP0NWKbUXGjTISBDiSsODA,Edith’s Eatery & Grocery,312 Leonard St,"{'latitude': 40.71504, 'longitude': -73.94773}",20,4.5,11211
+1_gWfzsKlYumumQzVqS_7Q,Honeybrains,"611 5th Ave, Fl 5","{'latitude': 40.758038, 'longitude': -73.976935}",12,4.5,10022
+t0dl8uWUfeoVdWFfz4IjRA,Wing Town,85-17 37th Ave,"{'latitude': 40.750239, 'longitude': -73.881}",56,4.0,11372
+JHNULniN2Sc7BAUDUBk0rg,Just Salad,325 Hudson st,"{'latitude': 40.7266553, 'longitude': -74.0074464}",98,3.0,10013
+v4cXt2qe9pq_XWJflL5ISg,Parc Oasis Oyster Bar,6403 11th Ave,"{'latitude': 40.6290427824765, 'longitude': -74.005197991996}",163,4.0,11219
+-ZhUZqLnB9uMCTqMSKGREA,Smiler's Gourmet Salad And Deli,532 Madison Ave,"{'latitude': 40.7605628967285, 'longitude': -73.9739227294922}",44,2.5,10022
+6JtQMLoLCsZ3ZFfYjNF_ag,Manhattan Fruit Market,"448 W 16th St, Chelsea Market","{'latitude': 40.7434243, 'longitude': -74.0074976}",31,4.0,10011
+NICTgnuTPwziO56o6fyuRA,Lassoni Ristorante,602 Ridge Rd,"{'latitude': 40.79792, 'longitude': -74.1258}",135,4.0,07031
+rZxnzjyGdvifVbfSKHGh1w,Samesa,30 Rockefeller Plz,"{'latitude': 40.75911745849965, 'longitude': -73.97952700204347}",8,4.5,10112
+dqfHeckcMJLhrRSjlPIynw,Avocaderia,238 36th St,"{'latitude': 40.656252, 'longitude': -74.007841}",243,3.5,11232
+lQKnVAB9E4mhVlJc6sxwVQ,Havana's Cuban Cafe,824 River Rd,"{'latitude': 40.823548, 'longitude': -73.975923}",133,3.5,07020
+K8YLBdezdUyJncVWZbYfWQ,sweetgreen,606 1st Ave,"{'latitude': 40.7442426, 'longitude': -73.9729059}",30,3.0,10016
+eOGMqI7T2hPN4CzFdyzmSg,California Pizza Kitchen,"7103 80th St, Atlas Park","{'latitude': 40.7081966, 'longitude': -73.869325}",332,3.0,11385
+KkMErihT_VMr3O9hYN25DQ,Muscle Maker Grill,691 10th Ave,"{'latitude': 40.7629263968035, 'longitude': -73.9931298047304}",54,3.0,10036
+TQva_biHxS_lTgYDi52BlQ,CAVA,345 Adams St,"{'latitude': 40.6925169, 'longitude': -73.98860726029167}",118,3.5,11201
+wl-JLlhWJnYF2cfSevvsgA,Firenza Pizza,700 Plaza Dr,"{'latitude': 40.786529, 'longitude': -74.045329}",40,4.0,07094
+zNHRQtmf2dm0Y_2yUG5tOQ,Amazon Go,30 Rockefeller Plz,"{'latitude': 40.75884196348811, 'longitude': -73.97933714322019}",17,3.5,10112
+2HwB0HsQP6eeoI5FnJZGcA,NY Grill & Deli,191 Ave A,"{'latitude': 40.7290190124722, 'longitude': -73.9814085513353}",42,3.5,10009
+vYQkWTDMlyUlKrGrZaCahQ,Chick-fil-A,"9015 Queens Blvd, Ste 7","{'latitude': 40.73456, 'longitude': -73.86874}",115,3.5,11373
+aQVbr7SBZ0Wyj20fhcXW6w,Bagel Time,15051 14th Ave,"{'latitude': 40.789498, 'longitude': -73.811937}",76,4.5,11357
+PupuaqKJrZLtgM36e9fdiA,Baby Olive,1402 86th St,"{'latitude': 40.61246, 'longitude': -74.01177}",144,4.0,11228
+euZc5o4KThmesdtMA0W7zA,Pide 28,1136 Main St,"{'latitude': 40.89010750893245, 'longitude': -74.15510450063455}",92,4.5,07503
+c2qExk5O2yyjgMjtc9tRZA,Mad For Chicken,230 E 14th St,"{'latitude': 40.73264, 'longitude': -73.986}",21,4.0,10003
+ym-ZgwQ2ovryPAdm0xUJEg,Lin Garden,42-35 Main St,"{'latitude': 40.7544332742691, 'longitude': -73.8278661668301}",71,4.5,11355
+yObGN5IUHy5R2ly4zqCMdQ,Belle Âme Cafe,76 Cottage St,"{'latitude': 40.73462, 'longitude': -74.06277}",23,4.5,07306
+vQb0cESEkKMFu3dMVA0PFg,The Happy Belly Cafe,616 Van Houten Ave,"{'latitude': 40.85791, 'longitude': -74.14738}",79,4.5,07013
+2S36RHmFnqp51eSoiy7gSw,Chop & Go,85 John St,"{'latitude': 40.708501, 'longitude': -74.006489}",22,4.5,10038
+gstTKv8Q7xo2bF6KdnyicQ,Tastee Platters,217 Washington St,"{'latitude': 40.7392, 'longitude': -74.03006}",28,4.0,07030
+yfFjOdYh9NTmRT7CWrFU2g,Nada Deli & Shwarma,1488 1st Ave,"{'latitude': 40.771335667841115, 'longitude': -73.95319609549605}",16,4.0,10075
+cE7xZRpa8HLtGNtVhomysQ,Hoek Pizza,117 Ferris St,"{'latitude': 40.6779064, 'longitude': -74.0169529}",77,4.0,11231
+ZIdfJ9a-tfo1LDhqp9w6TA,Frank's Pizzeria,2823 Middletown Rd,"{'latitude': 40.8435944773229, 'longitude': -73.8359653694324}",119,4.5,10461
+ooPNadvyhlg7EDe0qXzYpw,Avocaderia,269 11th Ave,"{'latitude': 40.7518801, 'longitude': -74.005134}",42,3.5,10001
+uU_elQDqXe3-hjICnhfQXg,Potbelly Sandwich Shop,100 Park Ave,"{'latitude': 40.75156035152561, 'longitude': -73.9789272}",24,3.5,10017
+ngE6XKXWvDt-yVBET2BVtg,Emilio's of Morris Park,1051 Morris Park Ave,"{'latitude': 40.849121, 'longitude': -73.854675}",213,4.0,10461
+y3Y-wBlRvz7BRY4a-20HOA,Pax Wholesome Foods,520 8th Ave,"{'latitude': 40.75365, 'longitude': -73.99217}",61,2.5,10018
+Xk2zYFCknLOIZRv8T9z-Dw,Sakura Tokyo,604 Nostrand Ave,"{'latitude': 40.6779, 'longitude': -73.94989}",251,3.0,11216
+stuDM4Tf6HYZVhGduyhCdA,Metro,2062 Broadway,"{'latitude': 40.777661, 'longitude': -73.981746}",25,3.5,10023
+gib0tno_oa2ehuC8n3prqw,Muscle Maker Grill,70 7th Ave,"{'latitude': 40.739006, 'longitude': -73.9993775}",86,2.5,10011
+FHMu4ZseXglvn8FQVWAPjw,Chopt Creative Salad Co.,225 Liberty St,"{'latitude': 40.712349458594, 'longitude': -74.0158876724914}",133,3.0,10281
+1KoKR9fug8VXZr5tqqtimQ,Rim Nam Thai,52 Jay St,"{'latitude': 40.7033674860089, 'longitude': -73.9868891}",25,4.0,11201
+I-5p67rFCMwChxsG4d69Jw,Subs N Stuff,624 5th Ave,"{'latitude': 40.66343, 'longitude': -73.99166}",70,4.5,11215
+ud2S2pG_8wtQiiZEonvYhw,Chick-fil-A,213-217 W 34th St,"{'latitude': 40.75142, 'longitude': -73.99121}",8,4.5,10001
+TibU3OjvKMcyOHhcoTU6aw,Panini Grill,937 1st Ave,"{'latitude': 40.754949904845255, 'longitude': -73.96559303743875}",35,3.0,10022
+eVkDtKkyw0FLsthMuQtVjg,Cava,63 Wall St,"{'latitude': 40.705665, 'longitude': -74.0088055}",72,3.5,10005
+aOayzbPZzHU1r9P1YZbegQ,The Juice Shop,345 Adams St,"{'latitude': 40.69288711195039, 'longitude': -73.98847410214344}",124,3.0,11201
+0YsTg-3VwSLCHAJ23Gf2XA,Fulton Landing Seafood,445 Albee Square W,"{'latitude': 40.69085, 'longitude': -73.98329}",85,3.5,11201
+C5voYpUZllZtcwbomNABMw,Myron Mixon's Pitmaster Barbeque,618 Washington St,"{'latitude': 40.74416999999996, 'longitude': -74.02911151692308}",59,3.5,07030
+o-kfxonPwQOWQNBvfkBkWw,NYC Pizza Kitchen,390 3rd Ave,"{'latitude': 40.741947306680636, 'longitude': -73.98095156997442}",23,3.5,10016
+toVIQz-BPONAtgWmbuFjKQ,Cosi,535 Washington Blvd,"{'latitude': 40.7271493, 'longitude': -74.0348765}",130,3.0,07395
+6QjjOGkaLKuylxvTolUFBQ,Chick-fil-A,700 Avenue Of The Americas,"{'latitude': 40.742269081749, 'longitude': -73.9930082977278}",40,3.0,10010
+9itpsR-Tt4MCvBqfySn5zg,Bamboo Tropical,59-13 71st Ave,"{'latitude': 40.700824, 'longitude': -73.899393}",47,4.0,11385
+rYUtdvkEC36CbR_B2JHMWA,Tidal Poke Co - Harborside,"210 Hudson St, District Kitchen","{'latitude': 40.7190635, 'longitude': -74.033369}",59,3.5,07302
+TvW_d7tEfrBk6E4GGBuMCQ,Gino's Pizzeria & Restaurant,158-46 Crossbay Blvd,"{'latitude': 40.6595708440487, 'longitude': -73.8402999748963}",366,3.5,11414
+kNxYppnUMQEBj7TU6burmg,Portofino Ristorante,109-32 Ascan Ave,"{'latitude': 40.7189866692474, 'longitude': -73.8398046791553}",369,3.0,11375
+n9HAvXAOKv3qOqLhe7Dikg,Amazon Go,"200 Vesey St, Ste 217, Winter Garden","{'latitude': 40.71335684959984, 'longitude': -74.01484398220333}",30,4.0,10281
+3V3vPcAMloLwpKg13Z5kAQ,PokéBowl Station,2037 86th St,"{'latitude': 40.60413, 'longitude': -73.99715}",160,4.0,11214
+98FRakkaSFMao-xh7pj_7w,Anthony Francos Pizza - Fort Lee,2036 Hudson St,"{'latitude': 40.85118424054, 'longitude': -73.9690647558935}",101,4.0,07024
+yFimZ9By5zcDtWEzMlyQZg,Roosevelt Gourmet Deli,460 W 57th St,"{'latitude': 40.76891, 'longitude': -73.98846}",69,2.5,10019
+5P3SqR7aSjGsJaIxzm1i7g,Island Shack,87 S Elliott Pl,"{'latitude': 40.68695, 'longitude': -73.97541}",30,4.5,11217
+PWDSfW-c8198UegLtaTR1A,Russ & Daughters - Brooklyn,"141 Flushing Ave, Bldg 77","{'latitude': 40.69799, 'longitude': -73.97116}",100,3.0,11205
+raW5dnNKC88Jm-dLs30MPw,Panera Bread,"26 The Promenade, Building 4","{'latitude': 40.8068168, 'longitude': -73.989731}",139,2.5,07020
+_pXppRVEAW6zi8uRjx1ULg,Hudson Yards Tavern,360 9th Ave,"{'latitude': 40.751018, 'longitude': -73.997622}",33,3.0,10001
+H6NbVY8wxBL916q3GXBdVg,Tasty Bagels,1705 86th St,"{'latitude': 40.6086120605469, 'longitude': -74.0044479370117}",114,4.0,11214
+_2eGAao4W3ww4vNB3RQiBA,Salad Box,44 Park Pl,"{'latitude': 40.71328, 'longitude': -74.00958}",78,3.0,10007
+3TgD72KzjMnlV0yQIS8_6A,Mimoza Restaurant & Lounge,36-05 30th Ave,"{'latitude': 40.76500306556069, 'longitude': -73.91702234540368}",10,4.5,11103
+0NM2tVB297RZjZrvuTZTvA,The Bad Bagel,40 Wyckoff Ave,"{'latitude': 40.70586, 'longitude': -73.92193}",144,3.0,11237
+TPEkQX8Amp6Jb7FQmFKZxA,Gyro King,984 Coney Island Avenue,"{'latitude': 40.63347015213855, 'longitude': -73.96731197505162}",170,4.0,11230
+DBq2g_BH-rY96ye8YC3EcA,Health Kitchen,10-17 154th St,"{'latitude': 40.79246867893367, 'longitude': -73.80706461377136}",110,4.0,11357
+xKscjvRpp05aAJkPP507cw,Harmony,390 Manhattan Ave,"{'latitude': 40.805349, 'longitude': -73.956365}",57,3.0,10026
+aHyCL1X3tH3L1QFiUVv7Qg,Chick-fil-A,19 Teterboro Landing Dr,"{'latitude': 40.8595235, 'longitude': -74.061317}",159,3.5,07608
+IDOdOV367WoyduoJ0El8ng,sweetgreen,7 Pennsylvania Plz,"{'latitude': 40.7487731, 'longitude': -73.99253}",36,3.0,10001
+SbVbE4VRZ0XvMoZZx1itUg,The Healthy Kitchen,1135C Morris Park Ave,"{'latitude': 40.85035, 'longitude': -73.851727}",123,4.0,10461
+LPgX8syJ79eFTCEAJHffLQ,Panera Bread,345 Adams Street,"{'latitude': 40.692605, 'longitude': -73.988478}",222,2.5,11201
+WcGV8UljC72Qp0mp8k4JsQ,Potbelly Sandwich Shop,345 Adams St,"{'latitude': 40.69288, 'longitude': -73.98859}",102,3.0,11201
+MB1ei80A6bUsnryCy5I2Ww,Metro Finest Deli,233 Schermerhorn St,"{'latitude': 40.68853, 'longitude': -73.98455}",20,4.5,11201
+mHRu4KZXYM_RwyFXBGncsA,INDAY All Day,658 Driggs Ave,"{'latitude': 40.71471, 'longitude': -73.95921}",16,4.0,11211
+1Pe-aEK41SM3vfyenyktaA,The Juiice Box,852 Bushwick Ave,"{'latitude': 40.6941, 'longitude': -73.92681}",40,4.0,11221
+SLWUcNRm6TA3N-_kPSAp7w,Blaze Pizza,187-12 Horace Harding Expy,"{'latitude': 40.7403059, 'longitude': -73.78695268}",215,3.5,11365
+VHmA95LVWUJ4YTJbroQEXw,Just Salad,525 Washington Blvd,"{'latitude': 40.726944, 'longitude': -74.0356625}",90,3.5,07310
+sGkH0pgXE-QrzyNHkSm9Cw,NuLook Deli,4916 Vernon Blvd,"{'latitude': 40.74301, 'longitude': -73.95426}",25,3.0,11101
+AO9ubB1XVqj1hkwOZm-F9A,Villaggio Ristorante Italian Bistro,15007 14th Rd,"{'latitude': 40.787697, 'longitude': -73.81308}",168,3.5,11357
+nD2R18RIFOLRRfMVdXJNJg,Marie's 2,5 Hyatt St,"{'latitude': 40.64224, 'longitude': -74.07674}",85,4.5,10301
+gXnpqJ3NHF6Kxa3kfWs1oA,Proper Food,555 Madison Ave,"{'latitude': 40.761454, 'longitude': -73.97273}",13,3.5,10022
+DGKsQ1DkBINuJqyd4Zje9w,Andiamo Pizza,688 6th Ave,"{'latitude': 40.74199, 'longitude': -73.99312}",26,3.5,10011
+PAKsNbLzuFCXfJ9Ne8OGlg,Lenwich,25 Park Pl,"{'latitude': 40.71339, 'longitude': -74.00874}",72,3.0,10007
+xd8xlyBfI4Qe5O0zJn2J4g,Olive Garden Italian Restaurant,92-10 59th Ave,"{'latitude': 40.734006, 'longitude': -73.868733}",454,2.5,11373
+mfDszHvmns23Dc5C973j3Q,Linwood Pizza,140 Linwood Plz,"{'latitude': 40.861412, 'longitude': -73.9702856}",201,3.5,07024
+r_4ygAZcSaRVE0hV5pKkoA,Just Salad,1350 Ave of the Americas,"{'latitude': 40.76256, 'longitude': -73.97778}",8,4.5,10019
+NU_bgtavUAmLOPpC2cjkjw,Bjork Cafe & Bistro,58 Park Ave,"{'latitude': 40.74946490113501, 'longitude': -73.980048}",5,5.0,10016
+oaE6QxmAQ96Hr7vLLj0AMg,Panera Bread,"61-35 Junction blvd, Suite D12","{'latitude': 40.73296, 'longitude': -73.863258}",254,3.0,11374
+NNso2JZfIyUIFDjwAkTXag,Root Juicey Of Harlem,2073 Frederick Douglass Blvd,"{'latitude': 40.802139623500715, 'longitude': -73.95740594314732}",8,5.0,10026
+KJGj2BhJ61oNuToxCCijcg,Crocus Juice Bar and Cafe,328 Tompkins Ave,"{'latitude': 40.686459, 'longitude': -73.944794}",41,4.0,11216
+ft_weE_7sv7-fv_ywEKq9g,The Nourish Spot,10705 Guy R Brewer,"{'latitude': 40.698056, 'longitude': -73.79198}",61,4.5,11434
+aMPr-MpDLifXJkEjWnzyZQ,Wolfnights - The Gourmet Wrap,2675 Broadway,"{'latitude': 40.79851158278784, 'longitude': -73.9693477}",37,3.5,10025
+fD8BcQQq035r3GdVoE6PRQ,Hamptons Market Place,312 11th Ave,"{'latitude': 40.75313274562746, 'longitude': -74.00368532106091}",50,3.0,10001
+Bml-Mrpxy-qRpE5ko3njRA,Panera Bread,7325 Woodhaven Boulevard,"{'latitude': 40.7100086, 'longitude': -73.859263}",175,3.5,11385
+h6kuduwZ-_C2HrJm5c0ERg,Cooked Klean,188-16 Union Turnpike,"{'latitude': 40.729191207869086, 'longitude': -73.78063400369771}",34,5.0,11366
+ZUJqeftWycx9uC1tS4pYZg,sweetgreen,230 Park Ave,"{'latitude': 40.75445955090243, 'longitude': -73.97601197258703}",20,3.0,10169
+PJVW9Ppsj_Bokc9csd_uiA,Toros Restaurant,1083 Main St,"{'latitude': 40.89166, 'longitude': -74.1561399}",83,4.0,07503
+E2TDdwpHsywSSnD-yGV_ig,Little Market,400 Newark St,"{'latitude': 40.73733, 'longitude': -74.03751}",34,3.5,07030
+bMjrKzPZ6JdxNq4Zf6sDQQ,Hungry Bowl,216 Humboldt St,"{'latitude': 40.70879997856922, 'longitude': -73.9415741}",9,5.0,11206
+8ptALjl9MeDONKbBgY6yzQ,Potbelly Sandwich Shop,280 Broadway,"{'latitude': 40.7144541317433, 'longitude': -74.0058154}",57,3.0,10007
+uq-jeUk2yNOrfUKdRIpE_w,Piccoli Togo Windsor Terrace,157 A Prospect Park SW,"{'latitude': 40.654819, 'longitude': -73.973477}",84,4.0,11218
+CZ-9Y8N-07g9QfBMfjHtrA,Everytable,229 Avenue B,"{'latitude': 40.7292, 'longitude': -73.97806}",7,4.5,10009
+Gni26uzPdfkCSagKEcFP2g,Lore,441 7th Ave,"{'latitude': 40.66316670737584, 'longitude': -73.9845233117843}",51,4.0,11215
+Pqww9h8ligf21gn2eSBuRA,The Windsor Tavern,256 Prospect Park W,"{'latitude': 40.659, 'longitude': -73.98173}",25,5.0,11215
+i6H4hcjBSarJRVaieOZ2fw,Come On Thai Cuisine,7803 3th Ave,"{'latitude': 40.629117, 'longitude': -74.028483}",77,4.0,11209
+9rNSZyMvzCmY7STw0bQERg,LT Bar and Grill,390 Hackensack Ave,"{'latitude': 40.9077819734056, 'longitude': -74.03094}",194,3.5,07606
+_3tW7wOi2BHn9sBsh0vleA,Midland Bagels & Grill,160 N Midland Ave,"{'latitude': 40.9030522499122, 'longitude': -74.1044385753937}",127,4.0,07663
+6vfFBzI1Q-rh-5v9ndoyIQ,Just Salad,90 Broad St,"{'latitude': 40.703843, 'longitude': -74.011882}",81,3.5,10011
+ibzLNiVGAXHpRsqxJRzw9A,The Original New York Style Chicken and Gyro,91 Brooks Pl,"{'latitude': 40.7361241, 'longitude': -74.0628458}",15,4.5,07306
+Xq3ZO-DL3M6FkuJQBuE93Q,Papelon con Limon,1104 Broadway,"{'latitude': 40.693953, 'longitude': -73.93026}",20,4.5,11221
+Y4eqn5D2Emukncw1A3K8Wg,Areena Thai Cuisine,312 Hackensack St,"{'latitude': 40.83633, 'longitude': -74.09243}",49,4.5,07072
+_bnpewXqoina6HSALmvSxQ,Basil Cucina & Catering,1686 Forest Ave,"{'latitude': 40.6247, 'longitude': -74.1448}",115,4.0,10302
+npa0Qb2YI4tcZOAJYSWo9g,Red Cup Cafe,44-62 21st St,"{'latitude': 40.747989, 'longitude': -73.947639}",27,3.0,11101
+1pv2OkbgHTGhXP2YqHj5uQ,Potbelly Sandwich Shop,"90 Broad St, G103","{'latitude': 40.7039262348757, 'longitude': -74.0118498127295}",66,3.0,10004
+A7T3GYUnupQrPQdeTVzfIA,The Mill,75 Varick St,"{'latitude': 40.7233278663719, 'longitude': -74.0064327711639}",57,3.0,10013
+dAOqZiNIGyGm--f3yCEmCw,Vegbar Juicery,464 Newark St,"{'latitude': 40.73722, 'longitude': -74.0384}",15,4.5,07030
+MvkkAVNCFVmCWo8rXaTwBQ,Uncle Frankie’s Brick Oven Pizza,3007 Fort Hamilton Pkwy,"{'latitude': 40.64852, 'longitude': -73.9787}",58,4.5,11218
+pZ54dL42YeiLNzt5f5DdVg,Potbelly Sandwich Shop,"15 Exchange Pl, Ste 100","{'latitude': 40.71585, 'longitude': -74.03325}",65,3.0,07302
+Jk6AzMaM8pjqCszDg1V2fA,Bombay Grill and Curry,1015 Manhattan Ave,"{'latitude': 40.73359, 'longitude': -73.954991}",8,5.0,11222
+sER0OD2sfOSvAAQFjHf1Tw,sweetgreen,10 Hudson Yards,"{'latitude': 40.7527064, 'longitude': -74.0010987}",72,2.0,10001
+l2yAaU9fBm2Gg828ysI-nw,Andrews Pizzeria,7922 Eliot Ave,"{'latitude': 40.7246131, 'longitude': -73.8796998}",76,3.5,11379
+pWq3YAKT4YCRxMjh7QniwA,DisFruta,510 W 207th St,"{'latitude': 40.8646006932796, 'longitude': -73.9194239655506}",39,4.5,10034
+Y6MPR2e9PgdGamrqGPtnhg,Mona Lisa Pizzeria Ristorante,165 Broadway,"{'latitude': 40.6519, 'longitude': -74.12859}",167,3.5,07002
+8h89zabx-9QE9fshXLXWDA,Adam's Bagels & Deli,6356 Woodhaven Blvd,"{'latitude': 40.722862, 'longitude': -73.868399}",93,3.5,11374
+3Hq79elupsM-npDRxCo1tA,sweetgreen,2 Park Ave,"{'latitude': 40.7463073, 'longitude': -73.9822359}",69,2.0,10016
+89z4qetFymJunuErlciwaA,sweetgreen,50 Washington St,"{'latitude': 40.702812, 'longitude': -73.9898298687172}",101,2.5,11201
+OoGnu0kKe1-usPhrUmqBTw,Emilio’s Wood Fire Pizza,170 Chestnut St,"{'latitude': 40.8184072, 'longitude': -74.1558541}",25,5.0,07110
+LG0sr5blfcaY4JsC_wkXjg,Milk Bar Brooklyn,204 6th Ave,"{'latitude': 40.6756640368704, 'longitude': -73.9781353864794}",57,3.5,11217
+gkoAJruMnKVuoKVqorgFCA,TROVO NYC Thin Crust Pizza,906 3rd Ave,"{'latitude': 40.7589, 'longitude': -73.96875}",5,4.0,10022
+T7FiN1a-lDmbGWeHO5djzg,Las Delicias Peruanas,4307 104th St,"{'latitude': 40.74768, 'longitude': -73.860444}",31,4.0,11368
+qgMHSp9_5ppLB5nFE3KEYQ,Just Salad,334 West 34th St,"{'latitude': 40.7528142, 'longitude': -73.995305}",7,4.0,10001
+X1BEeHQqSXkGrxS3aTQI5Q,Patty Haus,847 St Johns Pl,"{'latitude': 40.67173, 'longitude': -73.94995}",12,5.0,11216
+JA5-YdQclPw1pbtoBLqrtA,JR's Diner,58-16 59th St,"{'latitude': 40.72052, 'longitude': -73.90854}",65,3.0,11378
+Ssux5lJ68qNnTAhAc2l1Uw,sweetgreen,347 Bowery Ave,"{'latitude': 40.7263613, 'longitude': -73.9914483}",37,3.0,10003
+WkS_qiCnUb7_LA5OKZbJ4Q,Marcello's Wood Fired Pizza & Restaurant,33 Fifth Ave,"{'latitude': 40.9118, 'longitude': -73.80968}",95,4.0,10803
+XLpFdiZo3_bBKqXGWKoIJg,sweetgreen,25-35 44th Dr,"{'latitude': 40.74744889999999, 'longitude': -73.9425502}",34,2.5,11101
+oqNi7nLvj59fpssB4_oWzA,Hutch and Waldo,77 Irving Pl,"{'latitude': 40.736922618345226, 'longitude': -73.98684159999999}",4,5.0,10003
+GVu1jkBNVDfaFxHFTzdhCg,Panera Bread,200 Mill Creek Dr,"{'latitude': 40.7919126, 'longitude': -74.04948}",146,2.5,07094
+nK-lgRjEBcfFAmYyAT8HSA,Rico's Chicken,74-27 Metropolitan Ave,"{'latitude': 40.7130363736799, 'longitude': -73.8772902265191}",71,3.5,11379
+NjNZVYejsvf7tSc2KlzLLg,Chopped Cheese,292 Malcolm X Blvd,"{'latitude': 40.8073842, 'longitude': -73.945442}",15,4.0,10027
+btuxzhAbhuJtwTKiU7ggTw,Taz Cafe,54 Pine St,"{'latitude': 40.70685, 'longitude': -74.00848}",46,3.0,10005
+7DvC6upbps_EjRP0IC8RRw,sweetgreen,127 Court St,"{'latitude': 40.6899104, 'longitude': -73.9920039}",105,3.0,11201
+eYcEbX3uZayc0jzd-Hjfqg,Moon Thai Kitchen,438 W 238th St,"{'latitude': 40.88711, 'longitude': -73.90471}",60,4.0,10463
+Y-6bEwStR2sLrRyUrh2jtA,Evergreen Fine Fresh Foods,260 Grand Ave,"{'latitude': 40.88488302475649, 'longitude': -73.9778395}",95,3.5,07631
+_Oo-avvM4zdLFDqwrLsrIw,Tasty Picks,89 E Gunhill Rd,"{'latitude': 40.8817454174423, 'longitude': -73.8794161271287}",97,3.5,10467
+2q_ZQOIj-pRBIgpGtWqXGA,Luigi Pizza,10402 Atlantic Ave,"{'latitude': 40.69006, 'longitude': -73.84071}",56,4.0,11416
+-eyB3eIlbKVrJ23fgzPrzQ,Morgans Market,13 Hudson St,"{'latitude': 40.71636, 'longitude': -74.00934}",34,3.5,10013
+fRDfNS02495-0-1iG_LLrA,The Juicers Shack,1086 Southern Blvd,"{'latitude': 40.825861, 'longitude': -73.891592}",16,4.5,10459
+khln9Dact53PkH-6sehuhQ,Ray's Deli,452 Hudson St,"{'latitude': 40.73138, 'longitude': -74.00649}",65,2.5,10014
+2T3kLp1Ji04H7WV4vfxk5Q,Louis,660 Madison Ave,"{'latitude': 40.76479840767378, 'longitude': -73.97102520000001}",3,4.5,10065
+y0b1k8F6V5gtLk2N1ttW3g,sweetgreen,155 E 44th St,"{'latitude': 40.7524657725114, 'longitude': -73.9739415588955}",20,2.5,10017
+DTv6xthkFkA6hErye-RETg,Just Salad,315 Madison Avenue,"{'latitude': 40.75274, 'longitude': -73.97915}",9,4.0,10017
+eoSjgAsX3pZYm0z3lx863Q,Due Fratelli,101-16 Queens Blvd,"{'latitude': 40.72596, 'longitude': -73.85218}",303,2.5,11375
+B669cqtISGPbHaXM2tJzqw,Alegrito Espresso Bar,2216 65th St,"{'latitude': 40.6134813, 'longitude': -73.9811028}",43,4.0,11204
+_BFY0UUh1HjLPNjQwyLSxg,Stay Fresh Grill & Deli,889 Broadway,"{'latitude': 40.698232, 'longitude': -73.937032}",168,2.5,11206
+P3JRPU5ElBdTJqCeRJd-xw,Osteria Italiana Ristorante Pizzeria,800 River Dr,"{'latitude': 40.883539, 'longitude': -74.123677}",57,4.0,07026
+eO1HYTMRh1DnBZTwSpCfPA,Abundant Life Juice Bar & Salads,13 E 2nd St,"{'latitude': 40.9093361, 'longitude': -73.8355681}",25,4.5,10550
+L1pgoxWt8I5cp1c9van_4Q,Pizzeria Hoboken,732 Jefferson St,"{'latitude': 40.7472306936165, 'longitude': -74.0357139291575}",66,3.0,07030
+Po8p45GKZ4JFycI3ZSAwig,The Burrito Shoppe,100 Stuyvesant Pl,"{'latitude': 40.643872, 'longitude': -74.077782}",75,4.0,10301
+R7Uo4SZzZ5ZJy5tFJ7IW4g,Skinny Pizza,225 Liberty St,"{'latitude': 40.711986, 'longitude': -74.015266}",98,2.5,10281
+MQhv4KA4tk6PYAfkMt07Jw,Brooklyn's Best Eats,23 Hillel Pl,"{'latitude': 40.63245767, 'longitude': -73.94840333}",15,5.0,11210
+LH6gxvqFiu-8JHOZarzjsA,Panera Bread,30 Mall Drive West,"{'latitude': 40.7268284, 'longitude': -74.0376246}",94,2.5,07310
+H6mb9qdqzOUEWz0WvpOsUA,Proper Food,67 Wall St,"{'latitude': 40.705714, 'longitude': -74.008437}",26,3.5,10005
+CPIzLLpuAv3c21faJAkF4A,Wholesome Organic Gourmet Market,343 2nd Ave,"{'latitude': 40.73596, 'longitude': -73.98254}",5,5.0,10003
+F2_Tu3qVsok23naebAcp_A,The Blend Factory,783 Grand St,"{'latitude': 40.7120301, 'longitude': -73.94184197941165}",7,4.5,11211
+_EMPne-TR9w1TcrpcDnC_Q,Chopt Creative Salad Co.,"383 W 31st St, Ste 37","{'latitude': 40.7514848, 'longitude': -73.9973223}",11,3.5,10001
+XoF6LgdSD9Gs5tVREtrfpg,Manor Delicatessen,9412 Jamaica Ave,"{'latitude': 40.6939010620117, 'longitude': -73.8507766723633}",37,4.5,11421
+6UWJ7EADorFBztrPpqXfEg,sweetgreen,2460 Broadway,"{'latitude': 40.791464, 'longitude': -73.973764}",96,2.0,10025
+MhnlFZ4j-LP6_XSSFQP0SA,Bunch-O-Bagels,361 Troy Ave,"{'latitude': 40.666003, 'longitude': -73.936704}",55,3.5,11213
+_UNgoCWZtfyL_8J-1OPxHQ,Glen Roy Bar,145 E 149th St,"{'latitude': 40.81891304227314, 'longitude': -73.92794014129477}",16,4.0,10451
+fJbGp0s_Ld3c0oHa1awjfg,Panera Bread,23-58 Bell blvd,"{'latitude': 40.78010662579031, 'longitude': -73.7756598177911}",229,3.0,11360
+hT1NOAqwYhVtQ3rrEK53MQ,Flavors,42 Broadway,"{'latitude': 40.70599, 'longitude': -74.01259}",29,3.5,10004
+qg2lEM3NH-NmmqeTyDZtBw,Salvo's Family Market,500 E 77th St,"{'latitude': 40.76965193715268, 'longitude': -73.95074539143373}",4,5.0,10162
+HIjx2eoYpolKZDqg6HNVWg,Hell's Kitchen Gourmet,593 10th Ave,"{'latitude': 40.76062, 'longitude': -73.99522}",19,3.0,10036
+y-TIqdZsklh9TyDfRsM01Q,Panera Bread,452 5th Ave,"{'latitude': 40.751879, 'longitude': -73.98235872883889}",360,2.0,10018
+TVbrGngAcbZppdCzrvpBzw,Hemo's Spot,486 Bay Ridge Ave,"{'latitude': 40.6335156666538, 'longitude': -74.0212100158444}",31,4.5,11220
+URxox-QI6OcF-kkUJREpmQ,Amazon Go,165 Broadway,"{'latitude': 40.7096, 'longitude': -74.01049}",21,3.5,10006
+nvi-Bp3Y9vCMGoriYufSjQ,Just Salad,56 W 125th Street,"{'latitude': 40.80695236460778, 'longitude': -73.94399512027572}",15,4.0,10027
+TQGHgKSrIKIprg6Rn353sA,La Ruta Del Taco,92 18 Jamaica Ave,"{'latitude': 40.69332556708993, 'longitude': -73.85251330352406}",24,4.5,11421
+q3qdUSSnfxuvtD908HOmFA,Ashby's,"120 Broadway, Ste 230","{'latitude': 40.7085915, 'longitude': -74.0108032}",83,2.5,10271
+6XlC2KRc6ISCzV8zuavQMQ,"Freshmix Salads, Wraps and Bowls",15315 Union Tpke,"{'latitude': 40.71985102585194, 'longitude': -73.81006479999999}",26,4.5,11367
+eHRHRMgh1WyDt79vlJIW0A,Naniwa Sushi,276 Kings Hwy,"{'latitude': 40.605028, 'longitude': -73.98042}",120,3.5,11223
+lunITVPTLmM2FNMnK6ScoQ,La Strada,5023 10th Ave,"{'latitude': 40.63791, 'longitude': -73.99967}",71,3.5,11219
+m-_fzQCkTn7ML4kUkYl0Sg,Chick-fil-A,"166 Flatbush Ave, Kings","{'latitude': 40.682755, 'longitude': -73.976881}",64,3.0,11217
+tj2hUmq3mPYKs_NnzSu7_g,Olive Garden Italian Restaurant,505 Gateway Dr,"{'latitude': 40.65149719236957, 'longitude': -73.8693345}",298,2.5,11239
+Z0EHLc0OfuZVENhHLrUV0Q,Lassen & Hennigs,177 Water St,"{'latitude': 40.7033309962587, 'longitude': -73.98712324315134}",10,4.5,11201
+cWaHziRQyOK0x8I8tBqtnw,Linda's Place,1 Potter Pl,"{'latitude': 40.77433, 'longitude': -74.01777}",5,5.0,07086
+nHkvcI4agHIuIo-0tm7grg,Blend Salad & Juice Bar,1310 78th St,"{'latitude': 40.618351, 'longitude': -74.00901}",68,3.5,11228
+q0CeXAqMRVsvmNshskiilQ,Green Yard Cafe,4131 Broadway Ave,"{'latitude': 40.846006, 'longitude': -73.938753}",24,4.5,10033
+kvIpUfbFh8jadKzVmR6yAw,Master Pizza,401 Hackensack St,"{'latitude': 40.83718, 'longitude': -74.09161}",106,3.5,07072
+tgQCpFDbZ6OdNNQ9lDSmAg,Sal's Good Eats,80 Green St,"{'latitude': 40.869221481047, 'longitude': -74.0590793767608}",83,3.5,07608
+TL-YbRD4L7gIIB2OrL8WKQ,Lenwich,114 Pearl St,"{'latitude': 40.704805, 'longitude': -74.0088}",54,2.5,10005
+hqVvrxDVNKj36-ENaJCvZA,sweetgreen,30 Rockefeller Plz,"{'latitude': 40.759003, 'longitude': -73.979061}",24,2.0,10112
+tAk3plscJwQM850_urnhJA,Nassau Finest Deli,183 Nassau Ave,"{'latitude': 40.7254890746247, 'longitude': -73.9459329843521}",10,4.0,11222
+ZbPQb_atkkTNxvjlXBk5Cg,Eatery 125,51 E 125th St,"{'latitude': 40.8058, 'longitude': -73.94038}",17,3.5,10035
+ATJWQV_ofFiZTs3cBy4JsA,Scale Fish Market,45 Coles St,"{'latitude': 40.72322, 'longitude': -74.04768}",7,5.0,07302
+l0cJQfeOG1EKC3eMPY06zQ,sweetgreen,90 Hudson St,"{'latitude': 40.7150341, 'longitude': -74.0340428}",70,2.5,07302
+g6QOBY2bmEw5CKfiZ43egQ,Encore,10007 4th Ave,"{'latitude': 40.61256, 'longitude': -74.03366}",53,4.0,11209
+lOSNPsFO9ov-i0fNt5A9BQ,Just Salad,114 Washington St,"{'latitude': 40.73807, 'longitude': -74.03104}",10,4.0,07030
+yusb2r9kYEbQ9VPK7q2ULg,Pret A Manger,147 Fulton St,"{'latitude': 40.7105996, 'longitude': -74.00818}",17,3.5,10038
+EZvf07qcxg14lzaAdZaOFg,Chopt Creative Salad Co.,1 New York Plaza,"{'latitude': 40.7023139, 'longitude': -74.0114968}",35,3.0,10004
+7R0mcLlUi-K95d_DfT2a4A,El Pollo Verde,398 10th Ave,"{'latitude': 40.7536552, 'longitude': -73.9996342}",5,4.0,10001
+ayPcRNuHNiXgS2oCc8FU9g,Café Hestia,80 Maiden Ln,"{'latitude': 40.70711, 'longitude': -74.00748}",13,4.0,10038
+CUrZNBphzBNJCiA5NOsfPw,Very Juice Bar,422 Ave P,"{'latitude': 40.608699798584, 'longitude': -73.9716110229492}",70,3.5,11223
+cGrHHe1sAjZjaWMWJo6xSQ,Dallas BBQ,2160 Bartow Ave,"{'latitude': 40.867923785830165, 'longitude': -73.8247076}",305,2.5,10475
+lg24fS3HiPIWgwAK2dl7LA,Caribbean Fiesta,1544 Madison Ave,"{'latitude': 40.79275, 'longitude': -73.95044}",10,3.5,10029
+Hix3IMyb57KLGTqrcDrX8g,Avocaderia,"601 Lexington Ave, The Hugh, Plaza Level","{'latitude': 40.75878, 'longitude': -73.97048}",4,3.5,10022
+ymO4zdB_EOJzlojJRbnm8A,harmony,451 E 116th St,"{'latitude': 40.795369, 'longitude': -73.93349}",14,3.5,10029
+v3FpWvp9ooKivLxYDSfANA,Pizzeria l'Antica,3789 Broadway,"{'latitude': 40.834547, 'longitude': -73.9449619}",23,4.0,10032
+h2mN2kNedAd54MqpBJhq_g,Sal's Pizzeria,3167 Bainbridge Ave,"{'latitude': 40.87531, 'longitude': -73.87966}",69,3.5,10467
+ouVYOjBMXlYo4ukxIRoX8A,Twisted Rootz,7905 Flatlands Ave,"{'latitude': 40.6353410385165, 'longitude': -73.9140670001507}",47,4.0,11236
+m_KD8LCItMjvciYx2Z48cw,Cozumel Gourmet Deli,877 10th Ave,"{'latitude': 40.769459599994704, 'longitude': -73.98869356399341}",3,5.0,10019
+-wtuMAbslS9O_Yu7fPYOyw,Metro Marché,30 W 57th St,"{'latitude': 40.763324, 'longitude': -73.975911}",2,5.0,10019
+o7ktV7vnZPL9mvgn5AonXQ,Foschini's Brick Oven Kitchen,298 Ridge Rd,"{'latitude': 40.80851, 'longitude': -74.11824}",114,3.0,07071
+78BvxM9NW8O2GIx75wgtfQ,Benny’s Kosher Pizza,181-30 Union Turnpike,"{'latitude': 40.727379724618935, 'longitude': -73.78634505990169}",62,3.5,11366
+NVZJ3A9ZwCLEDDF3caJdOQ,IL Posto Eatery,754 Clifton Ave,"{'latitude': 40.86883754610577, 'longitude': -74.15575601180814}",13,5.0,07013
+rXONKg1X1CViqdi1hS9XzQ,sweetgreen,125 Chambers St,"{'latitude': 40.7154632, 'longitude': -74.0088361}",54,2.5,10007
+QaSVPHxr6lylSPUVMq8rVg,Pronto Pizza,2928 Ave R,"{'latitude': 40.60723, 'longitude': -73.94299}",174,3.0,11229
+Gp5QySZcfRNxDIQSfT86oA,Hornado Ecuatoriano Restaurant,7618 Roosevelt Ave,"{'latitude': 40.746942, 'longitude': -73.888897}",26,3.0,11372
+udTQHBDgUR0WYgmHiwniuQ,Via Porta,522 Hudson St,"{'latitude': 40.73394, 'longitude': -74.00608}",8,4.0,10014
+IxevnT5AItxUzrbEqbkBuQ,Tokyo Express,429 Market St,"{'latitude': 40.8990833, 'longitude': -74.1118075}",51,3.5,07407
+vSCwwseowfBg7mjigktpQA,In Fine Fettle,961 Jewett Ave,"{'latitude': 40.61304, 'longitude': -74.13051}",45,4.0,10314
+xJ3Q0LxxeIkB62Tjctzdvw,Tossed NJ,89 Mulberry St,"{'latitude': 40.73628819109209, 'longitude': -74.16854738275609}",15,4.5,07102
+12cBQuCK5Kw1ZaboN2HChw,Lenwich,8 E 48th St,"{'latitude': 40.75685, 'longitude': -73.97736}",6,3.0,10017
+Z7uV9jqrj9GkSws1cz06cg,Grub Thai,34 Lexington Ave,"{'latitude': 40.740072, 'longitude': -73.98461}",5,4.0,10010
+yhPIlhQvA8w2M4hf1pGedg,Masseria Caffè,891 9th Ave,"{'latitude': 40.768496172680194, 'longitude': -73.98564275354147}",2,5.0,10019
+PgamFwM-ZD88CbTBvOhJqw,Kennedy Fried Chicken,6029 Roosevelt Ave,"{'latitude': 40.7457263856082, 'longitude': -73.9035525144888}",41,2.5,11377
+HgYWATE7JMYXkwBxL10eVA,Ranch Market,1600 Madison Ave,"{'latitude': 40.7944360299021, 'longitude': -73.9491372683812}",22,2.5,10029
+rZZRWEYLJZbF0OTmAgBYiA,Rondel,2006 Coney Island Ave,"{'latitude': 40.60828, 'longitude': -73.9626}",25,4.0,11223
+5fSi3UzxVNbuyTBGrOBZ7A,Taqueria Los Gueros,304 9th St,"{'latitude': 40.8880269685476, 'longitude': -74.0940469130874}",118,3.0,07663
+dBrsxwTPyMHFLsSAGJuTVA,Sophie's Cuban Cuisine - Flatiron,664 6th Ave,"{'latitude': 40.741207, 'longitude': -73.993649}",5,4.0,10010
+wUPghyFRFo3VoP5ahwBVHw,Farmstand,230 Park Ave,"{'latitude': 40.754393, 'longitude': -73.976103}",9,3.0,10169
+nPdElJudVWoNORVxV57Umg,Piade,103 N 3rd St,"{'latitude': 40.71684, 'longitude': -73.96197}",3,5.0,11249
+jESu6eoSS0cv6E9KeZdl1w,Lettuce Cart,62 W 45th St,"{'latitude': 40.756252, 'longitude': -73.98204}",2,5.0,10036
+NiXTjV_3j6goEQ_zY_oYYQ,Abe's Corner,674 Rogers Ave,"{'latitude': 40.65494, 'longitude': -73.95309}",13,4.5,11226
+kJY4DX5t-3x7dMr_f38DaQ,Panera Bread,875 Pelham Parkway,"{'latitude': 40.891502, 'longitude': -73.819003}",72,3.5,10803
+Kh9EXjOfKCTLY1B1hHd2Aw,Chick-fil-A Mobile Pick-Up,82-23 Baxter Ave,"{'latitude': 40.74700343849141, 'longitude': -73.88335506645694}",18,3.5,11373
+KYeQP8QXqhHB3Dp2Cd4mwA,La Palapa Tacos Gotham,600 11th Ave,"{'latitude': 40.762383005990785, 'longitude': -73.99690104480648}",8,3.0,10036
+puyaYqa6h_I4DWzNBKfspA,Soho Cafe & Grill,215 Church Ave,"{'latitude': 40.6437, 'longitude': -73.9779}",194,2.5,11218
+gUXyOCzIqxhCFTTirhAZqQ,Ovi's Place,2925 Avenue H,"{'latitude': 40.6316833496094, 'longitude': -73.9479904174805}",78,3.0,11210
+vIfNf5_fBbRhOB2MfG8e8w,Chick-fil-A,2 Nathaniel Pl,"{'latitude': 40.8950089, 'longitude': -73.9762000367045}",43,3.5,07631
+lJgMbnZ9K0m3G6x42l4xnA,Joe's Pizza,4717 Bergenline Ave,"{'latitude': 40.7812979, 'longitude': -74.0222771}",8,4.0,07087
+_mYAiY1Q5uiGfQuAd6tkAQ,Everytable,750 6th Ave,"{'latitude': 40.7439, 'longitude': -73.99162}",3,4.5,10010
+g3og6zatKOpXqE-o9ORnXw,Ha's Dac Biet,70 Forsyth St,"{'latitude': 40.71707983176376, 'longitude': -73.99338101439979}",10,3.5,10002
+huD7Vkr2jegk8o3kDCETqg,Panera Bread,"352 Route 3 West, Unit C6","{'latitude': 40.829819, 'longitude': -74.13652}",116,3.0,07014
+xMtNlXP6JlI08GwKOYSPTg,Eight And A Half Restaurant,9 W 57th St Lbby 1,"{'latitude': 40.7638, 'longitude': -73.97518}",2,4.5,10019
+cPnWkCCctE-0yTdPnjtl7Q,sweetgreen,599 Lexington Ave,"{'latitude': 40.7578666225376, 'longitude': -73.97111554302869}",10,2.0,10022
+d0caLDzNjkWPx4WOyKhEgA,Capriotti's Sandwich Shop,300 E 61st St,"{'latitude': 40.76157, 'longitude': -73.96319993711005}",7,2.5,10065
+cmjWMGlhzQ7d2k5USpMXAw,Broken Coconut,"544 W 27th St, inside Equinox Club","{'latitude': 40.75082, 'longitude': -74.004342}",2,5.0,10001
+Dt504pirhMYgJLFelBwxgw,Mama Rosaria's Pizza & Restaurant,2146 Forest Ave,"{'latitude': 40.626346, 'longitude': -74.161026}",80,3.5,10303
+rDljxcZses19ZdpwmpCvvg,Chirping Chicken,3048 Buhre Ave,"{'latitude': 40.8474, 'longitude': -73.8308799}",55,3.5,10461
+Vv5wcG5f0qAqkg7FkgjzAQ,Jerusalem Steak House II,1319 Avenue J,"{'latitude': 40.625297, 'longitude': -73.96258}",24,4.0,11230
+NZJpUCeZxnxQdOf_Zfv-pQ,Gyro Joint NJ,3800 Palisade Ave,"{'latitude': 40.77422701466651, 'longitude': -74.0248387809003}",12,3.0,07087
+p3zhpZRYI5GiWMz-G3i2Cw,Panera Bread,340 Baychester Avenue,"{'latitude': 40.8678662949, 'longitude': -73.8278447092}",173,2.5,10475
+naF2QrONSpfmlWiAntJd2Q,King's Pizza,1688 E 16th St,"{'latitude': 40.6084108, 'longitude': -73.957463}",53,3.5,11229
+dYRyycKCJWOHf7E3vyOKLA,New Riverdale Deli,452 W 238th St,"{'latitude': 40.88722, 'longitude': -73.90514}",61,3.0,10463
+1vSBnxYMlFTW4nzk5KkAFw,Olive Garden Italian Restaurant,"200 Baychester Ave, Ste 208a","{'latitude': 40.8641438, 'longitude': -73.8268009}",213,2.5,10475
+o1QzQmEl2km1-SnI85Yf6w,Bistro 280,280 Knickerbocker Ave,"{'latitude': 40.70199, 'longitude': -73.92416}",4,5.0,11237
+klM3sO3lJka_Oi5ZuRwVzw,Saladworks,30 Route 17 N,"{'latitude': 40.8312758688691, 'longitude': -74.0890138576548}",63,3.0,07073
+RoI9s870xTBoBd3_EG_Cmw,Pazza Luna Restaurant & Pizzeria,52 Chestnut St,"{'latitude': 40.8759484, 'longitude': -74.1058534}",37,3.5,07026
+yXMZSuLJEpNu24yhKey9XA,Forma Pasta Factory,5 Greene Ave,"{'latitude': 40.686023409875474, 'longitude': -73.97314209999999}",4,5.0,11238
+UntDcfA_87SsEG5BHYMbQw,'wichcraft,269 11th Ave,"{'latitude': 40.7518801, 'longitude': -74.005134}",18,2.5,10001
+fWOhiS5NMxQeNKGhS4kqUg,Grab N Go Deli,"3920 Broadway, Ste 5","{'latitude': 40.8384627, 'longitude': -73.9411675}",34,3.0,10032
+xx7_r5fklSTEbGnXkEiKGw,Cava,708 3rd Ave,"{'latitude': 40.75236953522526, 'longitude': -73.97362264880074}",3,4.5,10017
+Jr95q92ObVMPW-onF6vjOQ,Panera Bread,"528 Gateway Dr, Mailbox 2, Unit 12","{'latitude': 40.65342166254219, 'longitude': -73.8714923617632}",110,2.5,11239
+4gbxHH_yUr8cd6StJw0EwA,Giovani's Big Pizza,839 Prospect Ave,"{'latitude': 40.8199807, 'longitude': -73.9019161}",12,4.0,10459
+FAD5X-PH2LPMPYGaH7J5CA,Henry's Pizzeria & Restaurant,111 Anderson St,"{'latitude': 40.89368002136, 'longitude': -74.0439801290631}",16,4.5,07601
+fGSCeP4hRTA1ME5bMLahWg,Alaeddin's Pizza,600 Getty Ave,"{'latitude': 40.8888945262304, 'longitude': -74.1497305251312}",35,3.5,07011
+8c0xdJdmJxzmjQ7INX2h8A,Just Salad,655 6th Ave,"{'latitude': 40.74137, 'longitude': -73.99448}",2,5.0,10011
+acm5Dpd3uKc106Ty9ha8Hg,Extravert,230 Park Ave,"{'latitude': 40.75439, 'longitude': -73.97687}",1,5.0,10169
+ocjhwo9UKllgaBvY23gXqQ,Ark Gourmet Deli,1186 Raymond Blvd,"{'latitude': 40.7371915, 'longitude': -74.1703713}",7,5.0,07102
+FwZUB1K-upZ9dG5cb_KIJQ,Sammy Gourmet Deli,169-03 Jamaica Ave,"{'latitude': 40.70714, 'longitude': -73.79065}",29,3.5,11432
+tjlH6Q1v-vDmABiSBfIYEQ,Panera Bread,953 8th Ave,"{'latitude': 40.7663, 'longitude': -73.98333}",6,2.5,10019
+8v41S0qUDb4-ervyr35-Sg,Royal Kings Pizza,5211 5th Ave,"{'latitude': 40.64355, 'longitude': -74.01159}",51,3.0,11220
+r-ksiZmaSlIruIJwUT-kSA,Big Boy Gourmet Deli & Grill,244 W 14th St,"{'latitude': 40.7392, 'longitude': -74.00198}",13,2.5,10011
+hol0xoP_4m4EmJBo9fLszQ,Kimchi Guys,172 Newark Ave,"{'latitude': 40.72159196425567, 'longitude': -74.04502284444553}",9,4.0,07302
+z0Bzg1Z_sasrxRb83lNu4A,Manny's Gourmet Deli and Grocery,146 Graham Ave,"{'latitude': 40.70643, 'longitude': -73.94289}",8,4.0,11206
+5frcf3YK8Of3lpGbWcGmPw,Caffe Buon Gusto,918 Washington St,"{'latitude': 40.747935, 'longitude': -74.027961}",4,5.0,07030
+Bhh7QZW7VB4Ed6n1tJ6TUw,Focaccia Pizza,1316 Avenue M,"{'latitude': 40.61775, 'longitude': -73.9613}",10,4.5,11230
+td6aQ23LSrvjXuSJI4HO1w,Energy Fuel,45-06 30th Ave,"{'latitude': 40.76178129992117, 'longitude': -73.91088389080875}",20,2.5,11103
+VwYW2hgFGb9WKgExy7_M7A,Mendy's Deli,792 Eastern Pkwy,"{'latitude': 40.6689376831055, 'longitude': -73.9419631958008}",39,3.0,11213
+yfnmC3jSbhA1gO9ijIYrCQ,Panera Bread,95 State Highway 17,"{'latitude': 40.8301663, 'longitude': -74.0932395}",116,2.5,07073
+N8tDGSt5tUxVdUhVHZ_FNQ,Lexgourmet,971 Lexington Ave,"{'latitude': 40.769294, 'longitude': -73.962707}",7,2.5,10021
+wmpoKJqSK7Xk40WL9jx2MQ,LuLu Poke,353W 14th St,"{'latitude': 40.7116, 'longitude': -74.01142}",13,3.5,10014
+DI07XdabhYwe4rDvWK8MKQ,Alpha Greens,37 W 43rd St,"{'latitude': 40.75503, 'longitude': -73.98221}",1,5.0,10036
+ujKy9iUtf3DcvRv4JglMCA,Chick-fil-A,461 Park Ave S,"{'latitude': 40.74526945615958, 'longitude': -73.98242004718465}",2,4.0,10016
+-sr_OJ-qNESbwUqDtODjcg,Chop & Go,1700 Broadway,"{'latitude': 40.76352005692283, 'longitude': -73.98234033791475}",3,3.5,10019
+v0-dpOieJunmi0OszL6cDw,Over Greens,194,"{'latitude': 40.66146027462814, 'longitude': -73.97999124928003}",21,3.5,11215
+nnckmJtf761XV8VVcwRQVQ,The Naked Bird,313 W 57th St,"{'latitude': 40.76717, 'longitude': -73.98353}",1,5.0,10019
+U_z8h25er2jXOA763R7jVA,JJS OWN,133 Liberty Street Little Ferry,"{'latitude': 40.84763, 'longitude': -74.04369}",10,4.5,07643
+PDP02g7Ix2zSLWQaBTsjBQ,10 Jin's Empire Asian Cuisine,10 Murray St,"{'latitude': 40.71334, 'longitude': -74.0081}",30,2.0,10007
+VKihkof15rf3M4C-kuDL5Q,Empire Provisions,525 Hudson St,"{'latitude': 40.7340579, 'longitude': -74.006532}",3,4.5,10014
+4n_6AWlirn1YI8PfgWdOoA,Skylawn Rooftop & Bar,60 W 37th St,"{'latitude': 40.75132, 'longitude': -73.98578}",1,5.0,10018
+cv9gmZGAyTNHMzRF6sJtTg,Foda Egyptian Sandwich,38-99 28th Ave,"{'latitude': 40.765614806243406, 'longitude': -73.91380416884145}",2,5.0,11103
+OY1ckx8l_iI_sOCmtYj_nQ,Panera Bread,"10 Sterling Blvd, Suite 11","{'latitude': 40.8817688, 'longitude': -73.9878959}",85,2.5,07631
+isTuS0civczMmjN4u-idtg,sweetgreen,"390 Hackensack Ave, Space 169","{'latitude': 40.90495387234113, 'longitude': -74.03035652540522}",37,3.0,07601
+Nk5sprrpQ3vNdjK79vEljA,The Hungry Hero,1142 1st Ave,"{'latitude': 40.76188, 'longitude': -73.9601}",2,3.5,10065
+QahWQMupt8ImBgPxwHP4yw,Butcher Block,685 Broadway,"{'latitude': 40.70203, 'longitude': -73.943634}",35,2.0,11206
+8VJ_bkaTbiL7QwaY7pd0OQ,Oxford Cafe,119 E 60th St,"{'latitude': 40.76329, 'longitude': -73.96846}",2,4.0,10022
+_QO3RAMArtWTCwJIwOlu7Q,Cava,307 7th Ave,"{'latitude': 40.7468491953889, 'longitude': -73.99341240204508}",8,3.0,10001
+LTUF17qBacEhOuHBW1GcCA,Prime Avenue,377 Kingston Ave,"{'latitude': 40.6660864, 'longitude': -73.9423116}",38,3.0,11213
+gI8ZU33dONAnkCqUpBzV8w,Fireball Restaurant And Lounge,3920 Broadway,"{'latitude': 40.838513, 'longitude': -73.941167}",19,3.0,10032
+yJdzvnFvCHeVrnOdEOWGvw,Lenwich,10 Hanover Sq,"{'latitude': 40.70457, 'longitude': -74.00886}",3,4.5,10005
+GIaFUOWFdyZd9JbWZifEvg,Fuccio,192 Duffield St,"{'latitude': 40.69242862989674, 'longitude': -73.98445520219428}",8,3.5,11201
+MFmSQBFgks_oECcNNea1pg,Kozy Fresh,603 W 168th St,"{'latitude': 40.841423, 'longitude': -73.940162}",9,4.0,10032
+Zk_IOzQ2pHWDv80uy0XJ0w,Panera Bread,17 Teterboro Landing Dr,"{'latitude': 40.859944, 'longitude': -74.062372}",99,2.5,07608
+Pysmvb6_b0aFU_-3N50O-A,Juice Rite,3042 Buhre Ave,"{'latitude': 40.8470617748617, 'longitude': -73.8317152027474}",36,3.5,10461
+nE42dEmI9BeXv4FH5FM15w,Urbana,1305 53rd St,"{'latitude': 40.63266, 'longitude': -73.99402}",26,3.5,11219
+v2rl_U_ISu25KYronR8TCQ,Footprints Cafe,588 Nostrand Ave,"{'latitude': 40.6787089, 'longitude': -73.9498561}",25,2.5,11216
+W1QeE56tf2v1XtjaqHbXEA,Twenty One Grains,"152 W 52nd St, Urbanspace","{'latitude': 40.761694, 'longitude': -73.981806}",3,2.5,10019
+nxgT_tZtKMb7Xuc5Xf7Lng,Downtowner,9 Erie St,"{'latitude': 40.721367899905935, 'longitude': -74.04448283345006}",3,4.5,07302
+uOwVJV-GJzRlj2uaHlWAUw,Mediterranean Grille,15608 Rockaway Blvd,"{'latitude': 40.666469, 'longitude': -73.780147}",28,3.5,11434
+l7JdTjXAEuhnxTjjbXTsMA,Tony + Benny's Authentic Brooklyn Pizzeria,LaGuardia Airport Terminal B,"{'latitude': 40.77693066108138, 'longitude': -73.87396625443571}",11,3.5,11371
+0Ro6Ofr7Hb2WTTHdgmXEVQ,Plant Nation,398 10th Ave,"{'latitude': 40.7531977, 'longitude': -73.9996871}",8,2.0,10001
+K_Mn5ZQgoCRDNApu5kBs6A,Salt & Pepper Deli & Grill,854 Bushwick Ave,"{'latitude': 40.69406, 'longitude': -73.92674}",18,3.0,11221
+_TZhOjKDuB5XXlMEbao7cg,Sammy's,1439 Queen Anne Rd,"{'latitude': 40.9023165569915, 'longitude': -74.0044556049301}",113,2.0,07666
+W9JT4cD2EPLx3YpTOsFGvQ,La Tranquilite L'Impressioniste Restaurant,9128 Ave L,"{'latitude': 40.63567810464923, 'longitude': -73.8998288835007}",38,3.0,11236
+zRn8zAgje2rVCpuG49baBw,Fresca Bowl & Poke Mahi,623 2nd Ave,"{'latitude': 40.745, 'longitude': -73.97595}",5,2.0,10016
+dyYWevYADwh-tx0EtDDvGA,La Flama Grill and Salad,64th St 4th Ave,"{'latitude': 40.63875554916228, 'longitude': -74.02085001058751}",10,4.0,11209
+FujaZr0cXTeWBVm3b7D3ew,Live Maspeth Pizza House,5560 60th Rd,"{'latitude': 40.725586927851325, 'longitude': -73.90615081301432}",11,3.0,11378
+QdVs3DcjhUKmboNpGSASYQ,twentyonegrains,124 E 14th St,"{'latitude': 40.73363, 'longitude': -73.98877}",1,5.0,10003
+OoDRRfTc8kuv9CiiomKx0Q,Pastafina Pizza,347 3rd Ave,"{'latitude': 40.7404479, 'longitude': -73.98173278392981}",4,3.0,10010
+n9uh27lhZp41ARuHCaKGHQ,Dips,5315 13th Ave,"{'latitude': 40.6322899, 'longitude': -73.9945526}",9,4.0,11219
+_QmrhkFSSUhHs_UaXaLmsA,Viva Mexico,406 Broad Ave,"{'latitude': 40.85003, 'longitude': -73.99609}",16,3.0,07650
+TWTRkJZboGubnY-LQKwWPA,Istanblue Kebab House,1416 Ave J,"{'latitude': 40.62501, 'longitude': -73.96184}",13,4.0,11230
+BuvPQ1qd9ehgciq8jLn5Hg,Lean Harvest Kitchen,143 8th Ave,"{'latitude': 40.74186, 'longitude': -74.001264}",1,5.0,10011
+P-xN_hIOl4O1heV6K3IHSQ,Hook & Reel Cajun Seafood & Bar,75 Metropolitan Oval,"{'latitude': 40.837626822024184, 'longitude': -73.86083900260999}",19,3.5,10462
+3zttx8AAEIg0lpUnS1bt_g,Food U Desire,301 Smith St,"{'latitude': 40.68174, 'longitude': -73.9937099}",10,3.0,11231
+XhBhY_R4r2WNwswMVcK5WQ,Domenick’s Pizza,8774 Sutphin Blvd,"{'latitude': 40.705151, 'longitude': -73.809704}",12,4.0,11435
+rCD5QNP0rJLUs5j70s2CmA,Olive Deli & Salad Bar,2032 Lexington Ave,"{'latitude': 40.8035736, 'longitude': -73.9381943}",4,4.0,10035
+WAZmzUo10GNarsBj5efyLg,Kingston Pizza,259 Kingston Ave,"{'latitude': 40.67085, 'longitude': -73.94192}",35,2.5,11213
+9ICKslek4hJxK7sPU1SH1A,Chicago's Pizza With A Twist - Richmond Hill,11702 Atlantic Ave,"{'latitude': 40.69343961974718, 'longitude': -73.82941766193663}",16,3.5,11419
+FqODwr1XSoXVQY-uLj-9pA,Chick-Fil-A Harlem,216 W 125th St,"{'latitude': 40.8092098, 'longitude': -73.9492366}",5,3.0,10027
+9K1SYnavLURnAlihJjSuYA,Metro Gourmet Deli,1531 Metropolitan Ave,"{'latitude': 40.83961, 'longitude': -73.85859}",4,5.0,10462
+W91ldozGgFLp3rYRVDaMUA,Parker’s,119 W 56th St,"{'latitude': 40.764219, 'longitude': -73.978465}",3,2.0,10019
+4dtnXqcTd5wn-R-98OMlXg,Metro Cafe,"1045 Raymond Blvd, Gateway Center","{'latitude': 40.734742, 'longitude': -74.165764}",29,3.0,07102
+fX_sAL8vz2jE4A8r6qG2IQ,Wild Fig,41-17 Bell Blvd,"{'latitude': 40.76312, 'longitude': -73.7704}",19,3.5,11361
+tZDM42o0ZC1tePAxDc0pww,Jus Fishy & Beyond,1059 Flatbush Ave,"{'latitude': 40.64499, 'longitude': -73.95785}",13,3.5,11226
+lCSBMvhPiD9WuNDGlxxHKA,Miro's Chopped Salad,1340 York Ave,"{'latitude': 40.7665183403918, 'longitude': -73.9539298563955}",2,3.0,10021
+df4XiLkgL27CCpr1SJzDyQ,sweetgreen,"3 World Trade Ctr, Space 1300","{'latitude': 40.71116041813752, 'longitude': -74.01194342528706}",5,3.5,10007
+OJkV3PnhLz-PncfbVJ49cw,Lido Restaurant,11 River Rd,"{'latitude': 40.78686294884365, 'longitude': -74.1461084}",22,3.5,07031
+GI03D6jvoaTND1jskRGeSw,Crispy Crust Pizza,44 W Palisade Ave,"{'latitude': 40.8950158953667, 'longitude': -73.9768112450838}",41,2.5,07631
+KhOq3wotTR0OVsWeCD0hmA,Cocoa Bean Juice and Salad Bar,1510 Nostrand Ave,"{'latitude': 40.649402971536446, 'longitude': -73.94967868924141}",7,4.5,11226
+YpCZI5HAYWxYQ8-CyTaucA,Pink,1 Racetrack Dr,"{'latitude': 40.820186, 'longitude': -74.071741}",29,2.5,07073
+LAPld9-TWu4M1fzMpuz30A,Grab & Go Food,2096 5th Ave,"{'latitude': 40.80889, 'longitude': -73.94069}",5,3.0,10035
+Y5vNDWPehr_MaHiJTYoAFQ,Kosher Bagel Hole,1431 Coney Island Ave,"{'latitude': 40.6227684020996, 'longitude': -73.9644393920898}",14,3.5,11230
+tuzMzWjkf2UeaEl0lvaTCQ,Fontana Pizza and Pasta,34-23 Steinway St,"{'latitude': 40.755916, 'longitude': -73.921069}",1,5.0,11101
+bbENghLOb8TOnY4B2TU4MA,Healthy Fresh,"3432 E Tremont Ave, Ste 3","{'latitude': 40.832361, 'longitude': -73.82811}",17,3.5,10465
+tu3lu9iTFoPITkOM7art9A,Zam Zam Grill,72-27 37th Ave,"{'latitude': 40.7489301, 'longitude': -73.8932955}",5,3.5,11372
+85Qr6bvvT6c2bF-lsQoZ0Q,The Works,"424 Grand St, Old Colony Center,","{'latitude': 40.7172398, 'longitude': -74.0537471}",2,5.0,07302
+eLnlAoAo7axwjJWtW6iEGg,Avocaderia,245 5th Ave,"{'latitude': 40.74440236037355, 'longitude': -73.9870662}",1,4.0,10016
+bYU7x5bzGKkTSIASONtz4Q,Salad House,33 E Palisade Ave,"{'latitude': 40.89362384462795, 'longitude': -73.9737512}",9,4.0,07631
+V_CT9BEedoXFAYdxVCynpw,Jungle Juice Cafe,703 Rogers Ave,"{'latitude': 40.65431, 'longitude': -73.9527}",8,4.0,11226
+kHlh5L7Mr4kmrTrxMjB34Q,Just Salad,461 Dean St,"{'latitude': 40.681903, 'longitude': -73.975463}",4,4.0,11217
+kij7redTeKX14jNYIc-4fQ,Kaff's Bake Shop,2914 Ave J,"{'latitude': 40.6265069, 'longitude': -73.9473199252089}",11,3.5,11210
+Cx-obc_6ZIqr_d7uT7STfQ,Kennedy Fried Chicken,4102 Avenue D,"{'latitude': 40.6413688659668, 'longitude': -73.9378051757812}",10,4.0,11203
+pwV2X5T3BqWRJ3UEVDk3vg,Just Salad Catering,"663 Lexington Ave, Fl 3","{'latitude': 40.75977, 'longitude': -73.96967}",5,3.5,10022
+1IdyVmPWF1DD7IXm87CD_g,sunnyside gourmet deli,46-25 Queens Blvd,"{'latitude': 40.74341, 'longitude': -73.91794}",4,3.0,11104
+bxKU1RairnQdUNm_DpvK5A,Thalad,30 Vandam St,"{'latitude': 40.7261367, 'longitude': -74.004978}",1,5.0,10013
+ADwYWIivx8T2kueNUIdmVw,Aura Wine & Bar,501 Main St,"{'latitude': 40.90907, 'longitude': -73.78171}",4,5.0,10801
+aDF5HtJstk3PbqIAe13Omg,Dixy Chicken and Grill,7504 5th Ave,"{'latitude': 40.62942, 'longitude': -74.02298}",20,3.0,11209
+hg9YtPsvEBMGrxeR1LD6ww,Pronto Cafe,48 Academy St,"{'latitude': 40.7376472708917, 'longitude': -74.1735345822513}",26,3.0,07102
+rkvQS-Tgaao0sdbgEgDjcA,Sophie's Bistro & Lounge,1904 Coney Island Ave,"{'latitude': 40.61095, 'longitude': -73.96275}",47,2.5,11230
+VOB3vx_KzEaKIZpFTp4KOQ,johns deli,8308 13 Ave Flr Grd,"{'latitude': 40.615653927017526, 'longitude': -74.0124851501617}",8,4.0,11228
+k_teYP3ck5Kim5TYMoYNwA,Melis Delicious,159 E 103rd St,"{'latitude': 40.790166, 'longitude': -73.946848}",2,3.0,10029
+xE2X-MYs94ErVtjJM0EcPA,My Deli Gourmet & Grill,1201 Castle Hill Ave,"{'latitude': 40.83205, 'longitude': -73.85138}",6,4.0,10462
+bCg-mafy_jrdXiVgb_Zy1A,Carrot Express,135 W 41st St,"{'latitude': 40.754814, 'longitude': -73.9857693}",3,2.5,10036
+Qm6JbVAeDBVdxb1Odh_wtw,Crazy Meat,189-09 Union Turnpike,"{'latitude': 40.7298024, 'longitude': -73.7797347}",5,4.5,11366
+8VsAMPyHbjJ_viqSZVFlgA,sweetgreen,100 Willoughby St,"{'latitude': 40.69202424214772, 'longitude': -73.98479594110404}",24,1.5,11201
+h6gCe2CROxct1DEBYxmsSA,Yao Asian Fusion,,"{'latitude': 40.66743469238281, 'longitude': -73.98274993896484}",3,4.5,11215
+8xIXFKpg9_TKsMPEpRPdRA,Panera Bread,300 W 57th St,"{'latitude': 40.766600835441004, 'longitude': -73.98363986661003}",5,1.5,10019
+YXN21NMn3KcBWUiVQ1-8Fg,Sbarro,90-15 Queens Blvd,"{'latitude': 40.734745, 'longitude': -73.870046}",20,2.0,11373
+Mk9k_1UsVJUl-a-mFZkh8A,1285 Coffee and Cocktails,1285 Nostrand Ave,"{'latitude': 40.6557091, 'longitude': -73.9498262}",8,3.5,11226
+6EgfqEu4F2XPe_RvMhJBuw,Zeppole Pizzeria,288 Kings Hwy,"{'latitude': 40.605022, 'longitude': -73.9798396}",6,4.5,11223
+fvEw8cxmKCgPgPYDzx_dTQ,Joe's Brick Oven Pizza,204 W 231st St,"{'latitude': 40.879009829690766, 'longitude': -73.9052446}",9,3.5,10463
+Xcnie4SHN_EBsf2cnGpS2w,Saladworks,725 River Rd,"{'latitude': 40.81881, 'longitude': -73.97747}",6,3.0,07020
+D0UP3yF0skjnpKbHSsH4nQ,Upper East Side Salads,,"{'latitude': 40.78273, 'longitude': -73.95143}",2,3.0,10128
+tnUiNpd0GF_urbB1NiFpzA,Los Amigos Restaurant,674 E 180th St,"{'latitude': 40.84818, 'longitude': -73.88919}",5,4.0,10457
+aWDaZDQhDlTUuqrzg_XL0g,Farmer's Fridge,"Jfk International Airport, Terminal 4","{'latitude': 40.642879, 'longitude': -73.783217}",8,4.0,11430
+WqsR4mpbktCf77pAtBTz_Q,Pizzi...Cotto,"315 Main St, Ste 3","{'latitude': 40.8538576, 'longitude': -74.0455724}",7,4.0,07643
+JqB3ZrP01Pq2RV3oph-3UQ,Plant Junkie,124 E 14th St,"{'latitude': 40.73363, 'longitude': -73.98877}",1,4.0,10003
+P3vJpMBzshhBhjuycTI9Lw,Cilantro Pizza + Burgers,564-566 Newark Ave,"{'latitude': 40.7317924, 'longitude': -74.0565646}",9,2.5,07306
+R3tOf8pxs_72nIR9p1Wk1g,Amazon Go,110 Maiden Ln,"{'latitude': 40.706386731798176, 'longitude': -74.0066279}",6,2.5,10005
+u0OHTqrGx1nD-WSkzGrepw,sweetgreen,315 Hudson,"{'latitude': 40.72606357548991, 'longitude': -74.00796624108573}",8,2.0,10013
+Xqo1LrfC49x_ExiX2--BPA,Vessel Bar & Grill,895 Fulton St,"{'latitude': 40.683846, 'longitude': -73.967402}",2,4.5,11238
+SFXgb0chXSag8YGNtiLyMA,Holesome Bagels,333 Kingston Ave,"{'latitude': 40.667841494688595, 'longitude': -73.94219597829226}",13,3.0,11213
+avzpDhA73mokPaGZEZ-iUg,NY Lhasa Liang Fen,74-17 Roosevelt Ave,"{'latitude': 40.747174355519455, 'longitude': -73.8908707}",2,4.5,11372
+mWMBcPs1pHUAvuMBHf2GlA,La Nueva Estrella,390 E 204th St,"{'latitude': 40.8712196, 'longitude': -73.877121}",55,2.0,10467
+5wU8lgU5rPvckEUTJhuRtg,SaladHub,519 6th Ave,"{'latitude': 40.73715, 'longitude': -73.99732}",4,2.0,10011
+k8Yb2Iqe2mL6qup_tmGoFQ,Chopt Creative Salad Co. - Delivery Only,200 Varick St,"{'latitude': 40.728199, 'longitude': -74.005046}",5,2.5,10014
+igIqe453-RLHGq_1hp4Ngg,Danny's Deli,59-24 Kissena Blvd,"{'latitude': 40.74016, 'longitude': -73.81543}",28,2.5,11355
+n7fz_Jd7cvOSFu1bbyeUGQ,Green Poke,310 74th St,"{'latitude': 40.631982, 'longitude': -74.027184}",3,5.0,11209
+et6nuz0X4j-NpIrsrbPP6w,Hawaiian Fried Wings,5715 5th Ave,"{'latitude': 40.6408, 'longitude': -74.01461}",4,5.0,11220
+1j1U1zUiKGgFC9Yb7PdSDw,Andiamo Pizza,115 E 23rd St,"{'latitude': 40.74002, 'longitude': -73.98553}",2,5.0,10010
+jor1p7T0-Yvqwen_8XJMeg,Bar Veloce,LaGuardia Airport,"{'latitude': 40.76952, 'longitude': -73.88675}",12,2.5,11371
+QlmdiagN2jvkc14T89J-rA,Jordan's Juice & Salad Bar,4462 Broadway,"{'latitude': 40.85679, 'longitude': -73.9323849}",12,3.0,10040
+LpFCT-XbhT25AZmSfZPaHQ,Twentyonegrains,100 Pearl St,"{'latitude': 40.70433, 'longitude': -74.00968}",2,4.0,10004
+6Kgd_KnqVRKcZrzCitd5ug,Yes Juice,30-13 30th Ave,"{'latitude': 40.76730652902051, 'longitude': -73.92168716981381}",1,4.0,11102
+NVtz1npMTJBAC0MMrB6MdA,Pranzo,100 Broad St,"{'latitude': 40.70345, 'longitude': -74.01213}",1,5.0,10004
+LDsWB9EW8VJeZ-N46_dHvA,Salads Here,,"{'latitude': 40.746097564697266, 'longitude': -73.97991943359375}",3,1.5,10016
+w-OZ5ryRPZSAm2gHBJUJXw,Freshii,"145 4th Ave, Walgreens","{'latitude': 40.73390539460415, 'longitude': -73.98952483449914}",6,1.5,10003
+NZmzUl7Lp_D9jCiXMbq8fA,The Upper Crust,67-11 Main St,"{'latitude': 40.7339338843326, 'longitude': -73.824903331697}",16,2.5,11367
+FoZU-pjFONjbmBOtsMHIVA,Andiamo Cafe,2467 Grand Concourse,"{'latitude': 40.8617229238739, 'longitude': -73.8979848101735}",14,3.0,10468
+CWsiRPysCQcJebQizci3CA,Drake and Malone,37 E Broadway,"{'latitude': 40.8742091863516, 'longitude': -74.0405876082756}",3,5.0,07601
+BkgbEEe8h6IrQIheIRHU7Q,Best Deli & Grill,1033 Castle Hill Ave,"{'latitude': 40.82842, 'longitude': -73.85043}",8,3.5,10472
+pqgfHhrM6jqtRz7umJ44eQ,Myrtle Gourmet Deli,954 Broadway,"{'latitude': 40.696651, 'longitude': -73.935117}",2,4.5,11221
+530x2EkuaSySlavElQ_Z8Q,Ultimate Juices,83 Gramatan Ave,"{'latitude': 40.9137403964996, 'longitude': -73.8372673094273}",7,3.5,10550
+BLqi05_-EaGRuIwSpmGQCA,Whycook,55 Kearney Ave,"{'latitude': 40.71061, 'longitude': -74.07875}",2,5.0,07304
+kSVI31tiDBgAXb5pAm2qbA,Frankie's Gastro,651 Anderson Ave,"{'latitude': 40.82665788654363, 'longitude': -73.98749269999999}",1,5.0,07010
+V3UnnYDaYolCH_nnykK6bQ,AZ Deli,649 E 169th St,"{'latitude': 40.8314784, 'longitude': -73.9009301}",7,3.5,10456
+gsqdEwm67fiK3J5yUC4yUw,Junction Pizza & Pasta,34-60 Jucnction Blvd,"{'latitude': 40.7535040681501, 'longitude': -73.872052433097}",3,3.5,11372
+SHE4P2UrshQL4xJdnjKTxA,Taqueria Los Gueros,325 Main St,"{'latitude': 40.9140944480896, 'longitude': -74.1733078658581}",20,3.0,07505
+ZwPSNCPm7d3s82CRvVauDg,Foodcitycafe and pizza,1691 Broadway,"{'latitude': 40.76352, 'longitude': -73.98294}",3,1.0,10019
+tO6sFGVvY-z012uZvXk31Q,Kew Garden Deli & Grill,120-88 Queens Blvd,"{'latitude': 40.71341, 'longitude': -73.828129}",4,4.5,11415
+OD7IkX-BGuCGjMUd02hBqQ,Luxor NY,3775 10th Ave,"{'latitude': 40.8616554, 'longitude': -73.9206428}",19,2.5,10034
+pLVuNiQlAttPBpLeuAXb5Q,Deli 52,5120 13th Ave,"{'latitude': 40.6336299, 'longitude': -73.9939799}",16,2.5,11219
+MGaxuLyzJEj9lVCt2_Mp9Q,Uptown Veg 2,349 Malcolm X Blvd,"{'latitude': 40.80965, 'longitude': -73.94457}",2,4.0,10027
+-m4PUM8vbPQWrvUmD7aEdQ,Hikari Sushi,147 Wilson Ave,"{'latitude': 40.72346, 'longitude': -74.15106}",3,4.5,07105
+p0Q6wmBzOw7f3NAyVP3gbQ,Ave M Kosher Bagels,1710 Ave M,"{'latitude': 40.61815655919833, 'longitude': -73.95773406708165}",11,3.0,11230
+FLx_1Lm5C0IA434jrD1lNA,Throgg's Neck Deli & Grill,3742 E Tremont Ave,"{'latitude': 40.8261291, 'longitude': -73.8218342}",5,4.0,10465
+8nHsvQ1vcP0_Y68LyWU9pw,Everytable,945 Flatbush,"{'latitude': 40.6486, 'longitude': -73.95812}",2,5.0,11226
+SD2eMaR0iP48UJtab_4nag,3A'S Legacy Salad & Grill,445 Morris Park Ave,"{'latitude': 40.840591, 'longitude': -73.873496}",5,4.0,10460
+lCIMVpfR06LPaZMMZCJ3CA,Tacos La Morena Restaurant ,2319 Hughes Ave,"{'latitude': 40.85385, 'longitude': -73.8883}",8,3.0,10458
+i8NvYgvKTcckH5r87e_BxA,Just Salad,463 7th Ave,"{'latitude': 40.75179, 'longitude': -73.98983}",1,5.0,10018
+FcMOR02zpWb9pr8wWM4Fww,J & J Hot Food And Salad,4916 Fort Hamilton Pkwy,"{'latitude': 40.638215, 'longitude': -73.998329}",19,2.5,11219
+AhjLcCiEu9vfpe4aiqi85w,The Springs,224 Franklin St,"{'latitude': 40.73332, 'longitude': -73.95802}",2,3.0,11222
+-klFUlsd6ns5_k7NAFsOdA,Country Bay,3233 Ampere Ave,"{'latitude': 40.846408, 'longitude': -73.819549}",18,2.5,10465
+NOr76h5Bwn0D5m1CbjR_dg,Akagi Japanese Cuisine,116-09 Metropolitan Ave,"{'latitude': 40.70763, 'longitude': -73.83565}",2,5.0,11418
+DNRuziNSRZ94qcQ7Zzbhvw,The Botanist,3229 Broadway,"{'latitude': 40.81671, 'longitude': -73.95774}",1,4.0,10027
+CWrSreFfkH5AKmvTmQgd4g,King’s Falafel,775 Bergen Ave,"{'latitude': 40.725871, 'longitude': -74.068092}",3,3.5,07306
+5T7oCGoYeyVH1MAA2h_L-Q,Exquisite Grill & Deli,521 Malclom X Blvd,"{'latitude': 40.815026, 'longitude': -73.940641}",3,3.0,10037
+N5irQi1ZUFesqJoFIKnBIQ,The Alamo Delicatessen,239 E 181st St,"{'latitude': 40.8544364325864, 'longitude': -73.9003109540943}",7,3.0,10457
+ixGa2f5oHeM8lMAc8eDwYA,LT Burger Bryant Park,8 W 40th St,"{'latitude': 40.7523193, 'longitude': -73.9826889}",2,1.0,10018
+uLVBt7YKwegXfvDQO2Ow4A,Suwon Galbi Korean BBQ,165-19 Northern Blvd,"{'latitude': 40.76002847604639, 'longitude': -73.8004349}",4,4.0,11358
+k_zlryLtGZIS5QElKY8P2A,Cava,174 N 4th St,"{'latitude': 40.71529387315348, 'longitude': -73.9586678890717}",2,5.0,11211
+q9g9bHYKZ_007TcIC-tP4A,fresh&co,569 Lexington Ave,"{'latitude': 40.75682, 'longitude': -73.97196}",1,3.0,10022
+2kvKew-I6h7ItdNBn7TxDw,Plant Based Halal Cart,,"{'latitude': 40.746097564697266, 'longitude': -73.97991943359375}",1,1.0,10016
+qCskreGDQeNj5927Y2xEZQ,O Feng ’ Kitchen,88-17 Jamaica Ave,"{'latitude': 40.6928881, 'longitude': -73.8558108}",4,4.0,11421
+VIsHOICs7SWE-oj3jjHImg,Panera Bread,462 1st Ave,"{'latitude': 40.739218, 'longitude': -73.975239}",3,1.0,10016
+oUmF2IXcs0zZSCFkoYDc3A,La Casa Mofongo,10 W Burnside Ave,"{'latitude': 40.85372, 'longitude': -73.908}",3,3.5,10453
+q-kDQ3EcN4YXRptxvNRC0Q,The Naked Bird,515 Washington St,"{'latitude': 40.74269, 'longitude': -74.02909}",4,1.5,07030
+gsch6IozQEeAI41Y5-tjVQ,Cafe Corona 2000 Express,40-08A Junction Blvd,"{'latitude': 40.7488631, 'longitude': -73.8694368}",7,2.0,11368
+yET_KHFPlCf1M-AD_n1VqQ,Thai Cheong Salad Plus,455 Fulton St,"{'latitude': 40.69155, 'longitude': -73.98683}",1,4.0,11201
+ez7eD_ESs9oOCwNXNPfgoA,Angel's Bagels,688 Rte 440,"{'latitude': 40.7204107, 'longitude': -74.0925775}",2,4.5,07304
+r4D6x933_c0st2Z9gLuZjQ,Grisini Salad,1 American Dream Wy,"{'latitude': 40.809461345035665, 'longitude': -74.06692676246165}",5,2.5,07073
+4Em2pbpmD9qoTRlTTeCphw,Acapulco Fajita Tex-Mexican Express,63 Reade St,"{'latitude': 40.7148323, 'longitude': -74.0065613}",4,2.0,10007
+owNFbSe9L5kXRUpbUipH_g,J & M SUBS,82 Main St,"{'latitude': 40.88063, 'longitude': -74.04371}",3,3.5,07601
+FUBadxT1kDuRaKbe0e9Acw,Toss N' Chop Salad Bar,240 Sullivan St,"{'latitude': 40.72994, 'longitude': -73.99959}",2,1.5,10012
+hA5IpgfMR_VT2odmpBGeRg,Hadar Geulah,5914 18th Ave,"{'latitude': 40.6224, 'longitude': -73.9871}",5,3.5,11204
+BSdVsGQMCUh9CvpCdTqdwA,Eat Well,101 Liberty St,"{'latitude': 40.710083486128326, 'longitude': -74.0119758}",1,3.0,10006
+4gU64zNutxzlB0xj5jWntg,La Pinata Cafe,"400 Harrison Ave, Ste 5","{'latitude': 40.74679218526489, 'longitude': -74.15608365513461}",3,3.5,07029
+ALlDuc7Bel0cD4O-8ebT1A,Frasko Deli,2450 Amsterdam Ave,"{'latitude': 40.84864, 'longitude': -73.93074}",4,3.0,10033
+DNa6gpBa4-H0XuweWbfDpg,Ba-Ree,129 Alexander Ave,"{'latitude': 40.80712, 'longitude': -73.92751}",1,3.0,10454
+3qXw7qSrq13hpttdS1dYEg,Gotham Fresh Foods,27-20 Queens Plz S,"{'latitude': 40.7499411, 'longitude': -73.939616}",3,2.5,11101
+A2WGfPzalrUZEPC-nWfFyA,Inegol Koftecisi Uludag Restaurant,391 Crooks Ave,"{'latitude': 40.892137, 'longitude': -74.1423499}",2,4.5,07503
+t2hJ7oZded4igSWIgohHAA,Just Salad,55 Broadway,"{'latitude': 40.706836953977934, 'longitude': -74.0130305}",2,5.0,10006
+_8l0jEm5MWd2lwRBM5gnww,Healthy choice,4505 3rd Ave,"{'latitude': 40.8537093, 'longitude': -73.8914682}",2,4.0,10457
+SpLOSWvuxPM8BOzoIhPHtw,Natural Salad Bar,"30 Mall Dr W, Newport Center Mall","{'latitude': 40.726843, 'longitude': -74.037936}",3,1.5,07302
+K3pFBQY68TTTfa7yvG6qPw,MumsKitchens NYC,120TH Ave,"{'latitude': 40.684909, 'longitude': -73.767377}",2,4.5,11412
+BD-F8kNrynSmsy3RAeTjag,Felix gourmet deli,370 Lenox Av,"{'latitude': 40.81002, 'longitude': -73.94352}",2,3.0,10027
+MM6Zs030F05Vltsagu5a9w,The Italian Kitchen,4161 Kissena Blvd,"{'latitude': 40.7578, 'longitude': -73.82693}",1,5.0,11355
+YTolZPHDAfNXlyMpQzRzWg,Panera Bread,110 University Place,"{'latitude': 40.734407, 'longitude': -73.99284}",3,2.5,10003
+8ED1R2j3OiURPgtl97npCA,Taino's Kitchen,85 Halsey St,"{'latitude': 40.73967805357032, 'longitude': -74.1718431843417}",1,5.0,07102
+EE3JxdwoGMk9CYXE0SuvnA,Adam’s Green Bar,374 5th Ave,"{'latitude': 40.671365, 'longitude': -73.984822}",3,5.0,11215
+xtAv0MKh2_QOhpzXZyLuWA,Healthy Salad Shop,,"{'latitude': 40.7115745544434, 'longitude': -73.9529876708984}",1,2.0,11211
+7Lpa3gpQHdkHRhldaZoE_w,Nena's Pizzeria & Restaurant,4914 30th Ave,"{'latitude': 40.760114, 'longitude': -73.90744}",1,5.0,11377
+JoeBICHVpu1pzM9owxiKeg,Good Greens,386 Franklin Ave,"{'latitude': 40.82032436352246, 'longitude': -74.1583580667131}",6,2.5,07110
+DqjrZGETZZUndWpOgqfbHw,Tony's Baked Potato,707 9th Ave,"{'latitude': 40.762638, 'longitude': -73.989949}",1,1.0,10019
+yY3HvT-G2-exg32D3hsKdQ,Kennedy Fried Chicken,67 W Kingsbridge Rd,"{'latitude': 40.8682299, 'longitude': -73.90012}",3,3.0,10468
+i4Hm0UjAR4tUVhEYmNgeJQ,Crown Fried Chicken,1719 Pitkin Ave,"{'latitude': 40.670086, 'longitude': -73.909721}",3,2.5,11212
+iOBux604_ZMYJA-RY9dnTA,Gourmet Square,201 Amsterdam Ave,"{'latitude': 40.77677027899227, 'longitude': -73.9827212}",2,1.0,10023
+f4yLLYP2uwbNkylW8I9Qsw,Skyline Gourmet,125 Chubb Ave,"{'latitude': 40.802978515625, 'longitude': -74.0984420776367}",5,2.5,07071
+-FMyWwcOGhgYQ7fwHch0uw,94 Deli & Salad,94 Fulton St,"{'latitude': 40.709205, 'longitude': -74.006187}",1,5.0,10038
+RMt3XtB_8cgk_82EhtrG1g,Super Star Deli & Grocery,"62-49 Woodhaven Blvd, Ste 6","{'latitude': 40.7256878, 'longitude': -73.8696649}",4,2.5,11374
+IJ1l2QmVXm306jpiY_cYKg,Shumi  Japanese Cuisine Leonia,354 Broad Ave,"{'latitude': 40.86281, 'longitude': -73.987403}",8,4.0,07605
+Hci-tHZOzaZErAFeqnxx_g,Manor Delicatessen,98 Jamaica Ave,"{'latitude': 40.6926193, 'longitude': -73.8574295}",1,4.0,11421
+lNJNJPVlaCmk0-4_Kslp3A,Abitino’s,"684 Hegeman Ave, JKT Airport","{'latitude': 40.662072187994795, 'longitude': -73.88631904929716}",1,4.0,11207
+Ns-NhTQd4nmUiEn3uvJyow,Famous Joe Pizzeria,486 DeKalb Ave,"{'latitude': 40.690568, 'longitude': -73.957087}",1,5.0,11205
+b9tUxEjVMcW9CRg-Qe3x7Q,Everytable,102 Willoughby St,"{'latitude': 40.69203, 'longitude': -73.98458}",1,5.0,11201
+huYcB2Ztn_IPU8wo9fTjBw,EveryTable,457 W 125th St,"{'latitude': 40.813009213200566, 'longitude': -73.9556197}",2,3.0,10027
+rc9BnayF6330jfFWqbcMxQ,Sabores Latinos,124 - o4 Jamaica Ave,"{'latitude': 40.69969, 'longitude': -73.83206}",4,2.0,11418
+ogYUwqUuC33EDdJWzrLp0Q,El Greco Pizza & Pasta,,"{'latitude': 40.73866, 'longitude': -73.87972}",1,5.0,11373
+tHDeAnA3XthmsOfodqYNDA,All Together Appetizing,466 Avenue P,"{'latitude': 40.60898, 'longitude': -73.9702499}",1,4.0,11223
+ZbnZTFoIS7KD5_b40OR-NA,Avocados Food,651 Kapkowski Rd,"{'latitude': 40.660055, 'longitude': -74.171525}",1,4.0,07201
+ecrjaTu6CNzV-V_tBnPJgw,Organic Greens Salad,6001 Blvd E,"{'latitude': 40.78544, 'longitude': -74.00863}",1,2.0,07093
+GI2juGZq0wf26Q14PUYFLg,Poke Green,164 Pearl St,"{'latitude': 40.705892, 'longitude': -74.0074034}",1,1.0,10005
+Xwm0iB9RWyy-FfWXWZ8QIQ,Rego's Sandwich Shop & Salad,97-34 63rd Rd,"{'latitude': 40.731303348807586, 'longitude': -73.8598494976759}",2,3.0,11374
+PY_7SFj1-itKL5wmvQWNXQ,Scoops Kosher Ice Cream,3006 Avenue L,"{'latitude': 40.6218493, 'longitude': -73.9456888}",3,2.5,11210
+DpxLmwSRi0YVGNSWJBELAg,JJ Pizza And Restaurant,1805 Forest Ave,"{'latitude': 40.6253207973985, 'longitude': -74.14913579821587}",6,2.0,10303
+DKPk8TKzZlrUaRQj9UCtFA,Arezzo Pizza,5 Henry St,"{'latitude': 40.8620713127782, 'longitude': -74.1279336489654}",1,4.0,07055
+-xqju4aTssTmLazWeIrDsg,Mary J's Luncheonette & Deli,459 McLean Ave,"{'latitude': 40.9107513, 'longitude': -73.8834991}",3,3.0,10705
+jsflCqx8tln76-mnbPG_SQ,Twisted Salad,,"{'latitude': 40.682746887207, 'longitude': -73.9781875610352}",2,4.0,11217
+YPgUihaA9CWXLDiVb88kQg,Taqueria Y Restaurant El Rey Del Taco,102 Unión Av,"{'latitude': 40.9099459, 'longitude': -73.7891173}",1,4.0,10801
+P9C-W12anPWNlXt8XGLQrg,Farmer's Fridge,"273 16th St, Soho Lofts","{'latitude': 40.733157, 'longitude': -74.045131}",1,4.0,07310
+i9DroonNDBB7WjsWfM0VVA,Natural Juice Restaurant,5716 5th Ave,"{'latitude': 40.6409519736705, 'longitude': -74.0148789183039}",3,2.0,11220
+lVifyWPmMDGxvlBD7QpGNA,Yanna Healthy Snacks Juice & Salad Bar,251 E Tremont Ave,"{'latitude': 40.849089, 'longitude': -73.903882}",1,3.0,10457
+eyZGMj0ijau3CXMm-NhO5g,Spicy Tango Pizza,101 Greene St,"{'latitude': 40.71611692193942, 'longitude': -74.03601799160242}",1,4.0,07302
+DgzD7gl-gdKrxzSTYyVyDA,Briarwood Deli & Convenience,13763 Queens Blvd,"{'latitude': 40.7094772055125, 'longitude': -73.819309520192}",3,1.5,11435
+OMazO4_sxx099-WxEQdBqg,Dave and Charlie’s,538 Broadway,"{'latitude': 40.6653818018348, 'longitude': -74.11688604444724}",2,5.0,07002
+lw8N4Y_6Z0VjMjDSBT9VCg,be well greens,6 Highland Cross,"{'latitude': 40.8254217, 'longitude': -74.1089133}",1,3.0,07070
+KsajfF2hDVt7KXfpfTTJSA,Pantry 1 Deli & Grill,304 Belleville Ave,"{'latitude': 40.78887, 'longitude': -74.16221}",2,3.0,07109
+49-2Q32ouIx8RRU3pASGqA,Toss't and Press't,5 E Prospect Ave,"{'latitude': 40.91282, 'longitude': -73.83706}",2,5.0,10550
+JQB_i940Jqj0CFta7dHHIg,B*itch Don't Grill My Cheese,1528 Amsterdam Ave,"{'latitude': 40.819382, 'longitude': -73.952228}",2,1.0,10031
+tHheprl_WaNFdjuNEGwv3A,mello Bistro,1233 Bay St,"{'latitude': 40.613299, 'longitude': -74.06532}",3,4.0,10305
+6EyBl1o8ed-eFU-j3CfW5Q,Charleys Cheesesteaks,5100 Kings Plz,"{'latitude': 40.6104056, 'longitude': -73.9208363}",6,1.0,11234
+eJMIKsZNmVrGeqeCEaHGqg,Max's New York Style Pizza,150TH Ave,"{'latitude': 40.663054, 'longitude': -73.792589}",3,2.5,11430
+prBqvaxxoSN043-vTCG5Rw,J&D Pizzeria Restaurant,2530 Pitkin Ave,"{'latitude': 40.6742134094238, 'longitude': -73.878776550293}",2,1.5,11208
+ZV9luUUHdGJbWK59Q64KVA,Happy Salad,1912 86th St,"{'latitude': 40.605534, 'longitude': -74.000246}",2,4.5,11214
+5mhbn2jwXI7bGhgJRkLgxA,Farmer's Fridge,800 Poly Pl,"{'latitude': 40.6081859, 'longitude': -74.023889}",2,4.5,11209
+0tS6AGKq9crRuzUs7DDa6w,Maestro Pizza,444 Rochelle Ave,"{'latitude': 40.90994564838764, 'longitude': -74.072914}",2,4.5,07662
+wpk5xHbZdbqZO2DQQy1lkw,Cafe Pizzeria Solay,4521 3rd Ave,"{'latitude': 40.85404, 'longitude': -73.89119}",1,5.0,10457
+iFj7g7uzpUNi186FzyipvQ,Hack'N Shack Burger,450 Hackensack Ave,"{'latitude': 40.909596367656455, 'longitude': -74.03122957056299}",4,1.0,07601
+2Vg4_M-P9CasyoDh8p9LQg,Many Ways Deli,4402 8th Ave,"{'latitude': 40.64434503521665, 'longitude': -74.00062329104561}",1,5.0,11220
+OwzsUvYNwe_T2nsuHBS8ww,Iichiya Sushi,783 Palisade Ave,"{'latitude': 40.82914105963852, 'longitude': -73.98043163114963}",1,1.0,07010
+lS31TlH8bX3xc3NPyP1gIw,Pancho’s juice bar,4416 5th Ave,"{'latitude': 40.6482, 'longitude': -74.00731}",1,5.0,11220
+wbFKDyG04hAOsYRxPNHl5g,Green Leaf Bistro NYC,127-17 Liberty Ave,"{'latitude': 40.6891, 'longitude': -73.81737}",1,5.0,11419
+F2OjNov65ONVRx2vK0hDHA,Grill Express,71-28 Main St,"{'latitude': 40.7270683, 'longitude': -73.822325}",1,5.0,11367
+m1n1jNwu50youXeXNWCbzg,Big Bite,567 Broad St,"{'latitude': 40.74188, 'longitude': -74.16953}",1,5.0,07102
+dII8rCMYGNyphfmKLSWhIA,Bella Lulus,90-40 160th St,"{'latitude': 40.7041944442079, 'longitude': -73.79977438598871}",1,5.0,11432
+K65fhA2ot88cEgZR385EpQ,Kings Highway Deli & Grill,165 Kings Hwy,"{'latitude': 40.606012760958876, 'longitude': -73.9854593}",1,5.0,11223
+dhoJq9wjc8aAWASNXmg9QA,Angelinas Fine Foods of New York,"La Guardia Airport, Terminal 1","{'latitude': 40.7704742017745, 'longitude': -73.8642278686166}",1,1.0,11371
+K75a7ivINItYtchC9zp3lQ,Savoury Sour Sweet,,"{'latitude': 40.8375, 'longitude': -73.85507}",1,4.0,10462
+A1oh1oOaXw8lTyHYWFiwKg,CJ Carribean Cuisine And Cafe,96-21 Rockaway Blvd,"{'latitude': 40.6805093704351, 'longitude': -73.84214524179697}",2,3.0,11417
+XKm-OTMmFCPWY5FWMj0stg,El Bronkito,97 Victory Blvd,"{'latitude': 40.6378939494762, 'longitude': -74.079970009625}",1,1.0,10301
+a0EzndH3gKJ7EN0coe9xGw,Spring Grab and Go,4801 13th Ave,"{'latitude': 40.63542, 'longitude': -73.99151}",2,3.0,11219
+HpZ8UZryAlZ468C5SYHoeQ,Keep It Natural ,10416 Flatlands Ave,"{'latitude': 40.64724, 'longitude': -73.89484}",2,3.0,11236
+9bywKbhlwlAU42bBd22gKA,Urban Press,73-01 Main St,"{'latitude': 40.72441, 'longitude': -73.8202}",1,3.0,11367
+ovuQxgg2QDsBwgSNpIk5cg,F#ck Gluten,500 Cortlandt St,"{'latitude': 40.79761, 'longitude': -74.14562}",2,2.0,07109
+UdT3EGBZFo_LgijeB31wMA,Maki By Akimori,557 Kings Hwy,"{'latitude': 40.60486484794332, 'longitude': -73.9687185}",1,2.0,11223
+dcuDWPxmP_-HMWyIBSSKZA,the salad junkie,100 Stuyvesant Pl,"{'latitude': 40.6438, 'longitude': -74.07767}",2,1.0,10301
+L2ZYSor-Vjh0VKqjNiVpDg,LaFresca Pizza & Pasta,2454 E Tremont Ave,"{'latitude': 40.842507, 'longitude': -73.851329}",1,1.0,10461
